@@ -120,6 +120,7 @@ Mixmods site:
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/)
 
 [Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file)
+<br>
 credit: phoenyx12
 
 [Revmamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5)
@@ -137,6 +138,24 @@ credit: phoenyx12
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/)
 [
 Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/)
+
+[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
+
+[Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/)
+
+[ModelExtras](https://github.com/user-grinch/ModelExtras/releases)
+
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
+
+[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/)
+
+[The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
+
+[HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/)
+
+[Urbanize](https://www.mixmods.com.br/2024/11/urbanize/)
+
+[Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
 
 
