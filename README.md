@@ -18,7 +18,7 @@ Mixmods site:
 <a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>
 
 
-<a href="[https://www.mixmods.com.br/2023/10/cleoplus/](https://www.mixmods.com.br/2019/08/indievehicles/">IndieVehicles</a>
+<a href="https://www.mixmods.com.br/2023/10/cleoplus/](https://www.mixmods.com.br/2019/08/indievehicles/">IndieVehicles</a>
 
 
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs
