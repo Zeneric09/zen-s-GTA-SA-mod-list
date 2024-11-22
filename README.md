@@ -127,13 +127,7 @@ credit: phoenyx12
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
 
-[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description)
-
-[Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description)
-
 [HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/)
-
-[zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing)
 
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/)
 
@@ -159,7 +153,7 @@ credit: phoenyx12
 
 
 
-Misc places:
+Misc sites:
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>
 
@@ -175,4 +169,10 @@ Misc places:
 
 [Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)
 
-Mixmods discord server:
+[SA Windowed Mode](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases)
+
+[zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing)
+
+[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description)
+
+[Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description)
