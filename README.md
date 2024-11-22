@@ -136,8 +136,8 @@ credit: phoenyx12
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing)
 
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/)
-[
-Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/)
+
+[Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/)
 
 [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
 
