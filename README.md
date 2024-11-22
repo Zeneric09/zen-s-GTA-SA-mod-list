@@ -1,5 +1,7 @@
 Mixmods site:
 
+[Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/)
+
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>
 
 <a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a>
