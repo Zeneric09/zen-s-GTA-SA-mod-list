@@ -22,7 +22,7 @@ Mixmods site:
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs
 </a>
 
-<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a>
+<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks
 
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>
@@ -56,7 +56,7 @@ Mixmods site:
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
 
-[MextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx)
+[MextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste NextGen and Combat FX Plus folder into modloader folder (ignore the other folders).
 [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view)
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/)
@@ -93,13 +93,13 @@ Mixmods site:
 
 [Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/)
 
-[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/)
+[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - delete skygfx1.ini and copy/paste skygfx folder into modloader
 
 [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
 
 [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
 
-[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/)
+[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - copy/paste Proper Fixes folder into modloader - ignore the other folders.
 
 [ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540)
 
@@ -117,7 +117,7 @@ Mixmods site:
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/)
 
-[Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file)
+[Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file) - delete project2dfx folder
 <br>
 credit: phoenyx12
 
@@ -131,7 +131,7 @@ credit: phoenyx12
 
 [Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/)
 
-[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/)
+[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - delete improved2dfx folder
 
 [Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/)
 
@@ -143,15 +143,15 @@ credit: phoenyx12
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
 
-[HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/)
+[HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/) - copy/paste both folders, ignoring (low version) folder.
 
-[Urbanize](https://www.mixmods.com.br/2024/11/urbanize/)
+[Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder.
 
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
-
-
 Misc sites:
+
+[Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>
 
@@ -161,11 +161,11 @@ Misc sites:
 
 [Modernized Driveby](https://libertycity.net/files/gta-san-andreas/215460-modernized-driveby.html)
 
-[reLit](https://libertycity.net/files/gta-san-andreas/202738-relit-san-andreas.html)
+[reLit](https://libertycity.net/files/gta-san-andreas/202738-relit-san-andreas.html) - ignore the bonus folder.
 
 [Widescreen Fix](https://thirteenag.github.io/wfp#gtasa)
 
-[Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa)
+[Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.ini, salodlights.dat, and salodlights.asi - ignore the rest
 
 [SA Windowed Mode](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases)
 
