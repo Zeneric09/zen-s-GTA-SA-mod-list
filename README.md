@@ -155,6 +155,8 @@ credit: phoenyx12
 
 Misc sites:
 
+[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder.
+
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>
