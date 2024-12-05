@@ -79,8 +79,6 @@ Mixmods site:
 
 [Player Move Head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/)
 
-[Project Immerse Yourself](https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/)
-
 [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/)
 
 [Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/)
