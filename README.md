@@ -32,6 +32,7 @@ Mixmods site:
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>
 
+[Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder and replace its ini with this [ini](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=drive_link).
 
 <a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>
 
@@ -42,6 +43,8 @@ Mixmods site:
 [Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/)
 
 [Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/)
+
+[Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/) - open "(mod 2019 experimental)" folder and put data folder into gta sa root folder (directory set up like this: gtasa/data/timecyc_24h.dat)
 
 [Friendly Triads and Los Aztecas Fix](https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/)
 
@@ -122,9 +125,7 @@ Mixmods site:
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
-[Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file) - read the install instruction in the readme. copy/paste timecyc24 .dat only.
-<br>
-credit: phoenyx12
+
 
 [Revmamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5)
 
