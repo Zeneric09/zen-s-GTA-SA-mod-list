@@ -1,4 +1,4 @@
-Create a folder in modloader and name it as "1" (directory structure set up like this: gtasa/modloader/1/) unless stated differently below.
+Create a folder in modloader and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
 
 Mixmods site:
 
