@@ -1,111 +1,134 @@
+GTA SA mod list.
+
+Essential external tools:
+
+[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder (gtasa/d3d9.dll).
+
+[Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
+
+[Special K](https://www.special-k.info/) - replace its .ini with [this](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
+
+Essentials:
+
+[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+
 Create a folder in modloader and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
 
-Mixmods site:
+[Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
-[Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/)
+[Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
 
-[IndieVehicles](https://www.mixmods.com.br/2019/08/indievehicles/)
+[IndieVehicles](https://www.mixmods.com.br/2019/08/indievehicles/).
 
-<a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>
+<a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
 
-<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Cleo 5](https://github.com/cleolibrary/CLEO5/releases).
 
-<a href="https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/">Atmosphere Interface Pack</a>
+[Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases).
 
-<a href="https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/">Loadscreens 4k</a>
+<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-<a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>
+[Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-<a href="https://www.mixmods.com.br/2019/11/burned-peds-peds-queimados/">Burned Peds</a>
+[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+
+Optional (but recommended):
+
+<a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>.
+
+<a href="https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/">Atmosphere Interface Pack</a>.
+
+<a href="https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/">Loadscreens 4k</a>.
+
+<a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>.
+
+<a href="https://www.mixmods.com.br/2019/11/burned-peds-peds-queimados/">Burned Peds</a>.
 
 <a href="https://www.mixmods.com.br/2014/06/car-crash-anim-ir-pra-frente-quando-bater/
-">Car Crash Anim</a>
+">Car Crash Anim</a>.
 
-<a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>
+<a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>.
 
-[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/)
+[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
 
-<a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs
-</a>
+<a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a>.
 
-<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks. follow the install instruction in the readme (not to be placed in "1" folder!).
-
-<a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>
+<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks. follow the install instruction in the readme.
 
 [Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder and replace its ini with this [ini](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=drive_link).
 
-<a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>
+<a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>.
 
-<a href="https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/">Fair Police</a>
+<a href="https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/">Fair Police</a>.
 
-[Faster Clothes Changes](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/)
+[Faster Clothes Changes](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/).
 
-[Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/)
+[Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/).
 
-[Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/)
+[Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/).
 
-[Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/) - open "(mod 2019 experimental)" folder and put data folder into gta sa root folder (directory set up like this: gtasa/data/timecyc_24h.dat)
+[Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/) - open "(mod 2019 experimental)" folder and put data folder into gta sa root folder (directory set up like this: gtasa/data/timecyc_24h.dat).
 
-[Friendly Triads and Los Aztecas Fix](https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/)
+[Friendly Triads and Los Aztecas Fix](https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/).
 
-[Helifix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/)
+[Helifix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/).
 
-[Hospital Health Pickups](https://www.mixmods.com.br/2021/10/hospital-health-pickups-pickup-de-saude-nos-hospitais/)
+[Hospital Health Pickups](https://www.mixmods.com.br/2021/10/hospital-health-pickups-pickup-de-saude-nos-hospitais/).
 
-[Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/)
+[Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/).
 
-[Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/)
+[Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
-[Improved Move](https://www.mixmods.com.br/2021/08/improvedmove/)
+[Improved Move](https://www.mixmods.com.br/2021/08/improvedmove/).
 
-[Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/)
+[Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/).
 
-[Meshsmooth pack by Hysen](https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/)
+[Meshsmooth pack by Hysen](https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/).
 
-[Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/)
+[Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
 [MextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste NextGen and Combat FX Plus folder into modloader folder (ignore the other folders).
-[direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view)
+[direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
 
-[Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/)
+[Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
-[Open Door Anim](https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/)
+[Open Door Anim](https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/).
 
-[Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/)
+[Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
 
-[Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/)
+[Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
 
-[Ped Fire Fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/)
+[Ped Fire Fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/).
 
-[Peds Bleeding](https://www.mixmods.com.br/2020/03/peds-bleeding-sangrar-com-saude-baixa/)
+[Peds Bleeding](https://www.mixmods.com.br/2020/03/peds-bleeding-sangrar-com-saude-baixa/).
 
-[Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/)
+[Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
 
-[Player Move Head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/)
+[Player Move Head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/).
 
-[Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/)
+[Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/).
 
-[Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/)
+[Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
-[Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/)
+[Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/).
 
-[Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/)
+[Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/)
+[Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
 
-[Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/)
+[Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
 
-[Vehicle Immunities](https://www.mixmods.com.br/2016/02/vehicle-immunities-corrigir-trailers-explodindo-e-mais/)
+[Vehicle Immunities](https://www.mixmods.com.br/2016/02/vehicle-immunities-corrigir-trailers-explodindo-e-mais/).
 
-[Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/)
+[Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/).
 
 [SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing). put "SKYGFX" folder in modloader (directory setup like this: gtasa/modloader/skygfx/).
 
-[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
+[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/).
 
-[Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
+[Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/).
 
 [Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
 
@@ -113,74 +136,52 @@ Mixmods site:
 
 [Timecycle24](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - read the install instruction in the read me.
 
-[Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
-
-[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/).
 
 [Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) - read the install instruction in the readme.
 
-[Cleo 5](https://github.com/cleolibrary/CLEO5/releases)
+[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
+[Revmamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5).
 
-[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
+[HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/).
 
+[Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/).
 
-[Revmamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5)
+[Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/).
 
-[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - delete improved2dfx folder.
 
-[HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/)
+[Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/).
 
-[Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/)
+[ModelExtras](https://github.com/user-grinch/ModelExtras/releases).
 
-[Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/)
-
-[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - delete improved2dfx folder
-
-[Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/)
-
-[ModelExtras](https://github.com/user-grinch/ModelExtras/releases)
-
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
 [Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - copy/paste all except its ini.
 
-[The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
+[The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
 [HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/) - copy/paste both folders, ignoring (low version) folder.
 
 [Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder.
 
-[Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
+[Wind Project](https://www.mixmods.com.br/2022/10/wind-project/).
 
-[Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+<a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>.
 
-[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+[Manual Driveby Refixed](https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html).
 
-Misc sites:
-
-[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder (gtasa/d3d9.dll)
-
-[Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
-
-<a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>
-
-[Manual Driveby Refixed](https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html)
-
-[Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases)
-
-[Modernized Driveby](https://libertycity.net/files/gta-san-andreas/215460-modernized-driveby.html)
+[Modernized Driveby](https://libertycity.net/files/gta-san-andreas/215460-modernized-driveby.html).
 
 [reLit](https://libertycity.net/files/gta-san-andreas/202738-relit-san-andreas.html) - ignore the bonus folder.
 
 [Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.dat, and salodlights.asi - ignore the rest. [download salodlights.ini from here and put it in the same folder as salodlights.asi](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing)
+[zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
 
-[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description)
+[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description).
 
-[Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description)
-
-[Special K](https://www.special-k.info/) - run gta_sa.exe with special k and play.
+[Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description).
