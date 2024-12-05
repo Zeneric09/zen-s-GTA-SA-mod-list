@@ -1,3 +1,5 @@
+Create a folder in modloader and name it as "1" (directory structure set up like this: gtasa/modloader/1/) unless stated differently below.
+
 Mixmods site:
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/)
@@ -6,7 +8,7 @@ Mixmods site:
 
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>
 
-<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a>
+<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
 <a href="https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/">Atmosphere Interface Pack</a>
 
@@ -26,8 +28,7 @@ Mixmods site:
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs
 </a>
 
-<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks
-
+<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks. follow the install instruction in the readme (not to be placed in "1" folder!).
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>
 
@@ -83,6 +84,8 @@ Mixmods site:
 
 [Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/)
 
+[Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+
 [Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/)
 
 [Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/)
@@ -95,37 +98,37 @@ Mixmods site:
 
 [Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/)
 
-[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - delete skygfx1.ini and copy/paste skygfx folder into modloader
+[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing). put "SKYGFX" folder in modloader (directory setup like this: gtasa/modloader/skygfx/).
 
 [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/)
 
 [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/)
 
-[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - copy/paste Proper Fixes folder into modloader - ignore the other folders.
+[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
 
-[ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540)
+[ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540) - create a folder named as "3" and put it in modloader. put rosa evolved (and player retex) in "3" folder inside modloader. directory structure setup like this: gtasa/modloader/3/rosa/. 
 
-[Timecycle24](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/)
+[Timecycle24](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - read the install instruction in the read me.
 
 [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/)
 
-[Modloader](https://www.mixmods.com.br/2018/01/modloader/)
+[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
-[Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/)
+[Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) - read the install instruction in the readme.
 
 [Cleo 5](https://github.com/cleolibrary/CLEO5/releases)
 
 [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 
-[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/)
+[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
-[Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file) - delete project2dfx folder
+[Improved California Weather 24 hrs](https://www.mediafire.com/file/h963wav15h030q9/Improved_California_Weather_24h.zip/file) - read the install instruction in the readme. copy/paste timecyc24 .dat only.
 <br>
 credit: phoenyx12
 
 [Revmamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5)
 
-[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/)
+[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
 [HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/)
 
@@ -139,9 +142,9 @@ credit: phoenyx12
 
 [ModelExtras](https://github.com/user-grinch/ModelExtras/releases)
 
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/)
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
 
-[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/)
+[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - copy/paste all except its ini.
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/)
 
@@ -151,9 +154,13 @@ credit: phoenyx12
 
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/)
 
+[Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+
+[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing)
+
 Misc sites:
 
-[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder.
+[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder (gtasa/d3d9.dll)
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
@@ -167,14 +174,12 @@ Misc sites:
 
 [reLit](https://libertycity.net/files/gta-san-andreas/202738-relit-san-andreas.html) - ignore the bonus folder.
 
-[Widescreen Fix](https://thirteenag.github.io/wfp#gtasa)
-
-[Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.ini, salodlights.dat, and salodlights.asi - ignore the rest
-
-[SA Windowed Mode](https://github.com/ThirteenAG/III.VC.SA.WindowedMode/releases)
+[Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.dat, and salodlights.asi - ignore the rest. [download salodlights.ini from here and put it in the same folder as salodlights.asi](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing)
 
 [Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description)
 
 [Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description)
+
+[Special K](https://www.special-k.info/) - run gta_sa.exe with special k and play.
