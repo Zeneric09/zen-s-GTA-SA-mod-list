@@ -73,7 +73,7 @@ Optional (but recommended):
 
 [Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - delete buffalo.txd, pcj600.txd, streak.txd, streakc, bike.txd, mtbike.txd, bmx.txd, freibox.txd, freiflat.txd, freight.txd, mtbike.txd, bike.txd, and bmx.txd if you install all of the other optional vehicles from this zen mod list.
 
-[Santa Maria Pier Extende](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
+[Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
 [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
 
