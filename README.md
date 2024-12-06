@@ -119,7 +119,7 @@ Optional (but recommended):
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[MextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste NextGen and Combat FX Plus folder into modloader folder (ignore the other folders).
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste NextGen and Combat FX Plus folder into modloader folder (ignore the other folders).
 [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
