@@ -6,7 +6,7 @@ Essential external tools/apps:
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
-[Special K](https://www.special-k.info/) - replace its .ini with [this](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
+[Special K](https://www.special-k.info/) - replace its .ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
 
 Optional external tools/apps:
 
