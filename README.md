@@ -1,4 +1,4 @@
-GTA SA mod list.
+Zeneric's GTA SA mod list.
 
 Essential external tools/apps:
 
