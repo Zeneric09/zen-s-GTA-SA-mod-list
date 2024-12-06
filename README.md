@@ -1,12 +1,24 @@
 GTA SA mod list.
 
-Essential external tools:
+Essential external tools/apps:
 
 [DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder (gtasa/d3d9.dll).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
 [Special K](https://www.special-k.info/) - replace its .ini with [this](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
+
+Optional external tools/apps:
+
+if you on supported Nvidia GPU:
+
+[Nvidia Beta Driver with Vulkan 1.4 support](https://developer.nvidiaom/vulkan-driver). Vulkan 1.4 was just released few days ago (12/6/2024 as of this typing) - no stable nvidia driver with 1.4 support yet so use the beta driver for now. Why 1.4? It boosts bout 30 fps on gta sa for me vs 1.3 on 4k screen res on 4070 Super GPU. Also boosts fps massively on any vulkan games (increased from 100 to 200 fps on DOOM 2016 on 4k screen res on 4070 Super gpu - another example).
+
+No Vulkan 1.4 support for AMD GPU yet (AMD said early next year).
+
+[Playnite](https://playnite.link).
+
+[Special K Helper Playnite extension](https://wiki.special-k.info/en/SpecialK/Tools#playnite-extension-special-k-helper).
 
 Essentials:
 
@@ -57,7 +69,19 @@ Optional (but recommended):
 
 <a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>.
 
+[Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-hero-goto).
+
+[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - delete buffalo.txd, pcj600.txd, streak.txd, streakc, bike.txd, mtbike.txd, bmx.txd, freibox.txd, freiflat.txd, and freight.txd if you install the other optional vehicles from this zen mod list.
+
+[Santa Maria Pier Extende](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
+
 [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
+
+[LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
+
+[Shadow Fixes](https://drive.google.com/file/d/1_GZCQrnUIi0qeWt4RWVPPkxCeuTIP71c/view) - replace cranes_dyn2.col with [this](https://drive.google.com/file/d/1ZaeRI11nJM-fypN34mBjW0-biQ_Pu1Wc/view?usp=sharing). credit: KaiQ.
+
+[More Shadows](https://www.mediafire.com/file/oeuvn98rnkcrdbs/MoreShadows.rar/file) - copy/paste cols from this over to "Shadow Fixes" mod by KaiQ, replacing (if prompted). credit: Bahgat Saber.
 
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a>.
 
@@ -106,9 +130,21 @@ Optional (but recommended):
 
 [Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
 
+[Smooth Criminal Bicycles](https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/).
+
 [Ped Fire Fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/).
 
 [Peds Bleeding](https://www.mixmods.com.br/2020/03/peds-bleeding-sangrar-com-saude-baixa/).
+
+[ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540) - create a folder named as "3" and put it in modloader. put rosa evolved (and player retex) in "3" folder inside modloader. directory structure setup like this: gtasa/modloader/3/rosa/. 
+
+[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
+
+[Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/) - put this mod in "2" folder inside modloader.
+
+[Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html). credit: Rab1d.
+
+[SAAS - San Andreas Ambient Sounds](https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds/).
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
 
@@ -138,10 +174,6 @@ Optional (but recommended):
 
 [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/).
 
-[Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
-
-[ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540) - create a folder named as "3" and put it in modloader. put rosa evolved (and player retex) in "3" folder inside modloader. directory structure setup like this: gtasa/modloader/3/rosa/. 
-
 [Timecycle24](https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas/) - read the install instruction in the read me.
 
 [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/).
@@ -159,6 +191,8 @@ Optional (but recommended):
 [Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/).
 
 [Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/).
+
+[Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
 
 [Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - delete improved2dfx folder.
 
