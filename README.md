@@ -182,7 +182,7 @@ Optional (but recommended):
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5).
+[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5). Credit: KiloRyu
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
