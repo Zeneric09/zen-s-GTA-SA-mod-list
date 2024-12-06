@@ -38,7 +38,7 @@ Optional (but recommended):
 
 [Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/).
 
-[New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/).
+[New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/). replace algorithm5.cs inside cleo foler with the one from optional folder. copy/paste the folder "New Algorithm for Trains" from the zipped file to "1" folder inside your gta sa modloader folder. ignore the 2nd optional folder (crashes reported).
 
 [Anim Train](https://www.mixmods.com.br/2015/10/anim-train-rodas-dos-trens-girando-v1-1/).
 
