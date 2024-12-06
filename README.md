@@ -34,6 +34,14 @@ Create a folder in modloader and name it as "1" (directory structure set up like
 
 Optional (but recommended):
 
+[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
+
+[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/).
+
+[New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/).
+
+[Anim Train](https://www.mixmods.com.br/2015/10/anim-train-rodas-dos-trens-girando-v1-1/).
+
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>.
 
 <a href="https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/">Atmosphere Interface Pack</a>.
