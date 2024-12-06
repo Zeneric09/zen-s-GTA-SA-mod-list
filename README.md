@@ -204,7 +204,7 @@ Optional (but recommended):
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - copy/paste all except its ini.
+[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - move all except its ini into Real Skybox folder, replacing when prompted.
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
