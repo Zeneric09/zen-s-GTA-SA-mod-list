@@ -71,7 +71,7 @@ Optional (but recommended):
 
 [Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-hero-goto).
 
-[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - delete buffalo.txd, pcj600.txd, streak.txd, streakc, bike.txd, mtbike.txd, bmx.txd, freibox.txd, freiflat.txd, and freight.txd if you install the other optional vehicles from this zen mod list.
+[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - delete buffalo.txd, pcj600.txd, streak.txd, streakc, bike.txd, mtbike.txd, bmx.txd, freibox.txd, freiflat.txd, freight.txd, mtbike.txd, bike.txd, and bmx.txd if you install all of the other optional vehicles from this zen mod list.
 
 [Santa Maria Pier Extende](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
