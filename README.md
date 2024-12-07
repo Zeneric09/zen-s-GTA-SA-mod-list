@@ -87,8 +87,6 @@ Optional (but recommended):
 
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a>.
 
-<a href="https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/">Ragdoll Physics mod</a> - use junior_Djjr's ini tweaks. follow the install instruction in the readme.
-
 [Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder and replace its ini with this [ini](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=drive_link).
 
 <a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>.
