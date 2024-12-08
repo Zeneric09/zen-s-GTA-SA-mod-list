@@ -71,8 +71,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-hero-goto).
 
-[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - delete buffalo.txd, pcj600.txd, streak.txd, streakc, bike.txd, mtbike.txd, bmx.txd, freibox.txd, freiflat.txd, freight.txd, mtbike.txd, bike.txd, and bmx.txd if you install all of the other optional vehicles from this zen mod list.
-
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
 [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
@@ -203,6 +201,8 @@ Optional (but recommended) GTA SA Mods:
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
 [HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/) - copy/paste both folders, ignoring (low version) folder.
+
+[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - put this mod in "2" folder inside modloader folder.
 
 [Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder.
 
