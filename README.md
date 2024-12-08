@@ -2,19 +2,13 @@ Zeneric's GTA SA mod list.
 
 Essential external tools/apps:
 
-[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from 32x folder to gta sa root folder (gtasa/d3d9.dll).
+[DXVK](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
 [Special K](https://www.special-k.info/) - replace its .ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
 
 Optional external tools/apps:
-
-if you on supported Nvidia GPU:
-
-[Nvidia Beta Driver with Vulkan 1.4 support](https://developer.nvidiaom/vulkan-driver). Vulkan 1.4 was just released few days ago (12/6/2024 as of this typing) - no stable nvidia driver with 1.4 support yet so use the beta driver for now. Why 1.4? It boosts bout 30 fps on gta sa for me vs 1.3 on 4k screen res on 4070 Super GPU. Also boosts fps massively on any vulkan games (increased from 100 to 200 fps on DOOM 2016 on 4k screen res on 4070 Super gpu - another example).
-
-No Vulkan 1.4 support for AMD GPU yet (AMD said early next year).
 
 [Playnite](https://playnite.link).
 
@@ -28,6 +22,10 @@ Create a folder in modloader and name it as "1" (directory structure set up like
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
+[NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction.
+
+[RunDLL32.exe Fix + GameUX.dll Fix](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/) - read the readme for instruction.
+
 [Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste.
 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
@@ -36,7 +34,7 @@ Create a folder in modloader and name it as "1" (directory structure set up like
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
 
-[Cleo 5](https://github.com/cleolibrary/CLEO5/releases).
+[Cleo 4.4.4](https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/) - read the readme for install instruction.
 
 [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases).
 
@@ -99,7 +97,7 @@ Optional (but recommended):
 
 [Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/).
 
-[Skyline Timecyc](https://www.mixmods.com.br/2021/04/skyline-timecyc-cores-corrigidas/) - open "(mod 2019 experimental)" folder and put data folder into gta sa root folder (directory set up like this: gtasa/data/timecyc_24h.dat).
+[24hr Fixed Original Timecycle Colours](https://www.mixmods.com.br/2018/12/24h-fixed-original-timecycle-colours-1-1/) - put timecyc_24h.dat into gta sa's data folder (directory set up like this: gtasa/data/timecyc_24h.dat).
 
 [Friendly Triads and Los Aztecas Fix](https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/).
 
@@ -119,7 +117,7 @@ Optional (but recommended):
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste NextGen and Combat FX Plus folder into modloader folder (ignore the other folders).
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste/move NextGen and Combat FX Plus folder (ignore the other folders) to "1" folder inside modloader folder.
 [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
@@ -143,8 +141,6 @@ Optional (but recommended):
 [Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/) - put this mod in "2" folder inside modloader.
 
 [Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html). credit: Rab1d.
-
-[SAAS - San Andreas Ambient Sounds](https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds/).
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
 
@@ -170,7 +166,7 @@ Optional (but recommended):
 
 [SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing). put "SKYGFX" folder in modloader (directory setup like this: gtasa/modloader/skygfx/).
 
-[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/).
+[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - pick the ROSA preset.
 
 [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/).
 
@@ -214,11 +210,7 @@ Optional (but recommended):
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>.
 
-[Manual Driveby Refixed](https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html).
-
 [Modernized Driveby](https://libertycity.net/files/gta-san-andreas/215460-modernized-driveby.html).
-
-[reLit](https://libertycity.net/files/gta-san-andreas/202738-relit-san-andreas.html) - ignore the bonus folder.
 
 [Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.dat, and salodlights.asi - ignore the rest. [download salodlights.ini from here and put it in the same folder as salodlights.asi](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
