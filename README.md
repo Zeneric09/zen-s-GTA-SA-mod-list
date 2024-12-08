@@ -14,7 +14,7 @@ Optional external tools/apps:
 
 [Special K Helper Playnite extension](https://wiki.special-k.info/en/SpecialK/Tools#playnite-extension-special-k-helper).
 
-Essentials:
+Essential GTA SA Mods:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
@@ -44,7 +44,7 @@ Create a folder in modloader and name it as "1" (directory structure set up like
 
 [SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-Optional (but recommended):
+Optional (but recommended) GTA SA Mods:
 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
