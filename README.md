@@ -22,7 +22,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
-[NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction.
+[NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction (not to be placed in "1" folder!).
 
 [RunDLL32.exe Fix + GameUX.dll Fix](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/) - read the readme for instruction.
 
