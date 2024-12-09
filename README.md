@@ -14,6 +14,18 @@ Optional external tools/apps:
 
 [Special K Helper Playnite extension](https://wiki.special-k.info/en/SpecialK/Tools#playnite-extension-special-k-helper).
 
+Essential GTA SA Tools (read the readme for how to use them):
+
+[Change Time](https://www.mixmods.com.br/2018/04/change-time-mudar-hora-minuto-dia-mes-clima/).
+
+[Name Vehicle Spawner](https://www.mixmods.com.br/2020/03/name-vehicle-spawner-digitar-nome-do-carro-para-pega-lo/).
+
+[Name Weapon Spawner](https://www.mixmods.com.br/2016/05/name-weapon-spawner-digitar-o-nome-da-arma-para-pega-la/).
+
+[NoClip](https://www.mixmods.com.br/2018/09/noclip-mod-voar-airbreak/).
+
+[Skin Selector](https://www.mixmods.com.br/2015/09/skin-selector-v2-1-ml-e-v2-1-c/) - pick modloader version. pick Skin Selector (o) folder.
+
 Essential GTA SA Mods:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
