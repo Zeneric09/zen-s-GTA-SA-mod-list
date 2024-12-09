@@ -105,9 +105,13 @@ Optional (but recommended) GTA SA Mods:
 
 [Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/).
 
+[SA Cutscene Characters for gameplay - choose the HD version](https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/) - copy/paste/move "gameplay" folder to "1" folder inside modloader folder. Delete all txd files from the gameplay folder (so that gameplay folder has only dff files).
+
 [Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
 [Improved Move](https://www.mixmods.com.br/2021/08/improvedmove/).
+
+[Animal Statues Remastered](https://www.mixmods.com.br/2020/02/animal-statues-remastered-estatuas-de-animais-em-hd/).
 
 [Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/).
 
@@ -217,5 +221,7 @@ Optional (but recommended) GTA SA Mods:
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
 
 [Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description).
+
+[Functional Clock Townhall HD](https://www.mixmods.com.br/2021/04/functional-clock-townhall-hd-prefeitura-com-relogio-funcional/)
 
 [Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description).
