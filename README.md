@@ -91,6 +91,8 @@ Optional (but recommended) GTA SA Mods:
 
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
 
+[ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder.
+
 [Shadow Fixes](https://drive.google.com/file/d/1_GZCQrnUIi0qeWt4RWVPPkxCeuTIP71c/view) - replace cranes_dyn2.col with [this](https://drive.google.com/file/d/1ZaeRI11nJM-fypN34mBjW0-biQ_Pu1Wc/view?usp=sharing). credit: KaiQ.
 
 [More Shadows](https://www.mediafire.com/file/oeuvn98rnkcrdbs/MoreShadows.rar/file) - copy/paste cols from this over to "Shadow Fixes" mod by KaiQ, replacing (if prompted). credit: Bahgat Saber.
@@ -137,8 +139,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. Copy/paste/move the rest to "1" folder inside modloader folder.
-[direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
