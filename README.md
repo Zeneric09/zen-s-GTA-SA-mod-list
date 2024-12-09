@@ -146,6 +146,10 @@ Optional (but recommended) GTA SA Mods:
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
 
+[Rain Mods By TrushinVlad (Updated by ArtemQa146)](https://www.gtainside.com/en/sanandreas/mods-322/198267-rain-mods-by-trushinvlad-updated-by-artemqa146/).
+
+[Death Animations EDIT](https://drive.google.com/file/d/1XYxukNydWAeYNvZNUt6-NbhIWYm-FN3f/view?usp=sharing) - created by ArtemQa146 and edited by Nikolai Misgenderov.
+
 [Player Move Head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/).
 
 [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/).
