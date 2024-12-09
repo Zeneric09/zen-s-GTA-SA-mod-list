@@ -36,7 +36,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Cleo 4.4.4](https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/) - read the readme for install instruction.
 
-[Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases).
+[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder.
 
 <a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
@@ -223,10 +223,6 @@ Optional (but recommended) GTA SA Mods:
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/).
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>.
-
-[Modernized Driveby](https://libertycity.net/files/gta-san-andreas/215460-modernized-driveby.html).
-
-[Project 2dfx](https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa) - copy/paste salodlights.dat, and salodlights.asi - ignore the rest. [download salodlights.ini from here and put it in the same folder as salodlights.asi](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
 
