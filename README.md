@@ -18,7 +18,7 @@ Essential GTA SA Mods:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-Create a folder in modloader and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
+Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
