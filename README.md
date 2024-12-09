@@ -85,6 +85,8 @@ Optional (but recommended) GTA SA Mods:
 
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
+[IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat.
+
 [Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
 
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
@@ -135,7 +137,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - copy/paste/move NextGen and Combat FX Plus folder (ignore the other folders) to "1" folder inside modloader folder.
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. Copy/paste/move the rest to "1" folder inside modloader folder.
 [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
