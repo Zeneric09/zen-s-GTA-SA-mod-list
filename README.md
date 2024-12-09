@@ -105,7 +105,11 @@ Optional (but recommended) GTA SA Mods:
 
 [Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/).
 
-[SA Cutscene Characters for gameplay - choose the HD version](https://www.mixmods.com.br/2021/03/sa-cutscene-characters-for-gameplay-personagens-convertidos/) - copy/paste/move "gameplay" folder to "1" folder inside modloader folder. Delete all txd files from the gameplay folder (so that gameplay folder has only dff files).
+[Mobile Hands](https://www.mixmods.com.br/2021/03/mobile-xbox-hands-maos-com-dedos-separados/) - pick the mobile version.
+
+[SA Mobile Hands (Chars)](https://gtaforums.com/topic/752981-sa-mobile-hands/) - delete player folder.
+
+[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini.
 
 [Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
