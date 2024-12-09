@@ -200,7 +200,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/).
 
-[ModelExtras](https://github.com/user-grinch/ModelExtras/releases).
+[ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras on grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto).
+
+[ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) - pick unofficial version 2.1.1.
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
