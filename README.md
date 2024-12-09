@@ -214,10 +214,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
 
-[Enhanced Classic Graphics](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - delete improved2dfx folder.
-
-[Enhanced Classic Graphics Vehicle.txd](https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/).
-
 [ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto).
 
 [ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) - pick unofficial version 2.1.1.
