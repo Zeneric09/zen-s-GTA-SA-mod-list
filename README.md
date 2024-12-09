@@ -136,7 +136,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Peds Bleeding](https://www.mixmods.com.br/2020/03/peds-bleeding-sangrar-com-saude-baixa/).
 
-[ROSA Evolved](https://www.patreon.com/posts/rosa-september-112078540) - create a folder named as "3" and put it in modloader. put rosa evolved (and player retex) in "3" folder inside modloader. directory structure setup like this: gtasa/modloader/3/rosa/. 
+[ROSA Evolved](https://www.patreon.com/c/jessica_natalia/posts) - create a folder named as "3" and put it in modloader. put rosa evolved (and player retex) in "3" folder inside modloader. directory structure setup like this: gtasa/modloader/3/rosa/. 
 
 [Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
 
