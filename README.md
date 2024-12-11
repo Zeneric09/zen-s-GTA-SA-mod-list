@@ -56,10 +56,6 @@ Optional (but recommended) GTA SA Mods:
 
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>.
 
-<a href="https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/">Atmosphere Interface Pack</a>.
-
-<a href="https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/">Loadscreens 4k</a>.
-
 <a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>.
 
 <a href="https://www.mixmods.com.br/2019/11/burned-peds-peds-queimados/">Burned Peds</a>.
