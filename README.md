@@ -336,3 +336,7 @@ Optional (but recommended) GTA SA Mods:
 [Wheel Detach](https://www.mixmods.com.br/2020/07/wheel-detach-soltar-ou-estourar-roda/).
 
 [Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/).
+
+[Siren Extender](https://www.mixmods.com.br/2018/08/siren-extender-v1-1-sirene-em-mais-carros/).
+
+[Multiple Siren Mod](https://www.mixmods.com.br/2018/08/multiple-siren-mod-sons-de-sirene-individuais/) - read the readme for install instruction.
