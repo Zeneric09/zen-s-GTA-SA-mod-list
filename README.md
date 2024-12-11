@@ -255,7 +255,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
 
-[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - choose the high preset.
+[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - choose the med preset.
 
 [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/).
 
