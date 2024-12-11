@@ -93,8 +93,6 @@ Optional (but recommended) GTA SA Mods:
 
 <a href="https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/">Fair Police</a>.
 
-[Faster Clothes Changes](https://www.mixmods.com.br/2020/08/faster-clothes-changes-trocar-de-roupa-rapidamente/).
-
 [Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/).
 
 [Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/).
@@ -169,8 +167,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-[Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
-
 [Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
 
 [Vehicle Immunities](https://www.mixmods.com.br/2016/02/vehicle-immunities-corrigir-trailers-explodindo-e-mais/).
@@ -230,3 +226,117 @@ Optional (but recommended) GTA SA Mods:
 [Functional Clock Townhall HD](https://www.mixmods.com.br/2021/04/functional-clock-townhall-hd-prefeitura-com-relogio-funcional/)
 
 [Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description).
+
+[Air Brake Sound](https://www.mixmods.com.br/2022/05/air-brake-sound/).
+
+[Animation Fix + M4k3 Anims](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/) - install Animation Fix + M4k3 New Car Animations folder only (ignore the rest).
+
+[Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/).
+
+[Bike on Air Reaction](https://www.mixmods.com.br/2020/08/bike-on-air-reaction-se-levantar-na-moto/).
+
+[Bus With Passengers](https://www.mixmods.com.br/2018/05/bus-with-passengers-v2-onibus-com-passageiros/).
+
+[Car Wash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/).
+
+[Cop Outfit](https://www.mixmods.com.br/2020/11/cop-outfit-v2-sem-estrela-ao-usar-roupa-da-policia/).
+
+[Damage Mark on the Screen](https://www.gtainside.com/en/sanandreas/mods/196954-damage-mark-on-the-screen/).
+
+[Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/).
+
+[Death In Car](https://www.mixmods.com.br/2022/06/death-in-car-morrer-dentro-do-carro/).
+
+[Destructive Rhino Mod](https://www.mixmods.com.br/2022/08/sa-destructive-rhino-mod/).
+
+[Dynamic Weapon Draw Sound](https://www.mixmods.com.br/2019/09/dynamic-weapon-draw-sound-v2-5-som-ao-manusear-arma/).
+
+[Emmet But Useful](https://www.mixmods.com.br/2022/07/sa-emmet-but-useful/).
+
+[Exhaust Tweaker](https://www.mixmods.com.br/2015/07/exhaust-tweaker-v1-1-configurar-fumacas-dos-escapamentos/).
+
+[Faster Animation Of Sellers](https://www.gtainside.com/en/sanandreas/mods/196525-faster-animation-of-sellers/).
+
+[Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
+
+[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - choose the high preset.
+
+[Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/).
+
+[Hangout with Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/) - install optional Random Model Appearances folder too (ignore the other optional ones).
+
+[Hats for Peds](https://www.gtainside.com/en/sanandreas/mods/199704-hats-for-peds/).
+
+[HD Carl Bits](https://www.mixmods.com.br/2021/09/hd-carls-bits-moveis-remasterizados/).
+
+[Headlight Destroyer](https://www.gtainside.com/en/sanandreas/mods/195308-headlight-destroyer-v1-1/).
+
+[Helmet Mod](https://www.mixmods.com.br/2020/01/helmet-mod-v1-0-npcs-com-capacete/) - install the optional folder.
+
+[Improved Barber](https://www.gtainside.com/en/sanandreas/mods-322/196981-improved-barber/).
+
+[Improved Jetpack Control](https://www.mixmods.com.br/2021/07/improved-jetpack-control-melhorar-controle-do-jetpack/).
+
+[Improved Night Windows](https://www.mixmods.com.br/2022/09/sa-improved-night-windows-by-hysen-mais-janelas-noturnas/).
+
+[Infernus HD Remastered](https://www.mixmods.com.br/2019/09/infernus-hd-remastered-by-ezekiel/) - install the imvehft version.
+
+[Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/).
+
+[Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/).
+
+[Melee Hit Sound](https://www.mixmods.com.br/2021/03/melee-hit-sound-v1-1-som-de-impacto-de-arma-branca/).
+
+[MenuUI](https://www.mixmods.com.br/2021/09/menuui-v1-5-menus-modernos/).
+
+[More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/).
+
+[No Aggressive Drivers](https://www.mixmods.com.br/2021/12/no-aggressive-drivers-sem-motoristas-agressivos/).
+
+[Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
+
+[Ped Dead Float Fix](https://www.mixmods.com.br/2019/04/ped-dead-float-fix-nao-boiar-ao-morrer/).
+
+[Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/).
+
+[Peds Extender](https://www.mixmods.com.br/2022/08/peds-extender/).
+
+[Peds Dont Drown](https://www.mixmods.com.br/2020/01/pedsdontdrown-pedestres-sabem-nadar/).
+
+[Planes Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/).
+
+[Proper HD Models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
+
+[Prostitutes Money Drop Fix](https://www.mixmods.com.br/2022/04/prostitutes-money-drop-fix/).
+
+[Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
+
+[Realistic Spread](https://www.mixmods.com.br/2017/04/realistic-spread-corrigir-espalhamento-dos-tiros/).
+
+[Realistic Weapons Settings](https://www.mixmods.com.br/2017/04/realistic-weapons-settings-uso-de-armas-realista/).
+
+[Rear Lights Mod](https://www.gtainside.com/en/sanandreas/mods/191824-rear-lights-mod-v3-4/).
+
+[Remastered Pictures Mod](https://www.mixmods.com.br/2021/12/sa-sade-remastered-pictures-mod-quadros-com-fotos-hd/).
+
+[Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
+
+[SADE Big Ear Telescope to SA](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/).
+
+[SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/).
+
+[Stealing a car like in GTA IV](https://www.gtainside.com/en/sanandreas/mods/192426-stealing-a-car-like-in-gta-4).
+
+[Story Mode](https://www.mixmods.com.br/2022/11/story-mode/).
+
+[Tools Shop](https://www.mixmods.com.br/2020/12/tools-shop-loja-de-ferramentas/).
+
+[Traffic & Travel](https://www.mixmods.com.br/2019/01/traffic-travel-v2-7-1-trailers-avioes-etc/).
+
+[UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/).
+
+[Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/).
+
+[Wheel Detach](https://www.mixmods.com.br/2020/07/wheel-detach-soltar-ou-estourar-roda/).
+
+[Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/).
