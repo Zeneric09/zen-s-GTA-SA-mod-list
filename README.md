@@ -1,14 +1,14 @@
 Zeneric's GTA SA mod list.
 
-NOTE: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [here(google drive)](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+NOTE: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [here (google drive)](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
 Essential external tools/apps:
 
-[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll).
+[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from the google drive inside gta sa root folder (gtasa/dxvk.conf).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
-[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder. replace gta_sa's specialk.ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto) (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play.
+[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder. replace gta_sa's specialk.ini (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play (more configuring on special k in game is needed - press crtl+shift+backspace to access the special k menu in game).
 
 Optional external tools/apps:
 
@@ -18,7 +18,7 @@ Optional external tools/apps:
 
 Essential GTA SA Mods:
 
-[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from google drive.
 
 Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
 
@@ -28,7 +28,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [RunDLL32.exe Fix + GameUX.dll Fix](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/) - read the readme for instruction.
 
-[Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste.
+[Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste (Or replace its ini with the one from Google Drive).
 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
 
@@ -38,13 +38,13 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Cleo 4.4.4](https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/) - read the readme for install instruction.
 
-[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder.
+[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace ini.
 
-<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+<a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - replace ini.
 
-[Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
 
-[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - replace ini.
 
 Optional (but recommended) GTA SA Mods:
 
@@ -56,7 +56,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Anim Train](https://www.mixmods.com.br/2015/10/anim-train-rodas-dos-trens-girando-v1-1/).
 
-<a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a>.
+<a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a> - replace ini.
 
 <a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>.
 
@@ -67,25 +67,17 @@ Optional (but recommended) GTA SA Mods:
 
 <a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>.
 
-[Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-hero-goto).
-
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
 [IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat.
 
-[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
-
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
 
-[ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder.
+[ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder. Replace .ini.
 
-[Shadow Fixes](https://drive.google.com/file/d/1_GZCQrnUIi0qeWt4RWVPPkxCeuTIP71c/view) - replace cranes_dyn2.col with [this](https://drive.google.com/file/d/1ZaeRI11nJM-fypN34mBjW0-biQ_Pu1Wc/view?usp=sharing). credit: KaiQ.
+<a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a> - replace ini.
 
-[More Shadows](https://www.mediafire.com/file/oeuvn98rnkcrdbs/MoreShadows.rar/file) - copy/paste cols from this over to "Shadow Fixes" mod by KaiQ, replacing (if prompted). credit: Bahgat Saber.
-
-<a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a>.
-
-[Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder and replace its ini with this [ini](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=drive_link).
+[Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder. Replace .ini.
 
 <a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>.
 
@@ -109,7 +101,7 @@ Optional (but recommended) GTA SA Mods:
 
 [SA Mobile Hands (Chars)](https://gtaforums.com/topic/752981-sa-mobile-hands/) - delete player folder.
 
-[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini.
+[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini (replace with the one from google drive).
 
 [Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
@@ -123,7 +115,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view).
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view). replace fsxfunction.ini.
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
@@ -159,11 +151,11 @@ Optional (but recommended) GTA SA Mods:
 
 [Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
-[Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Improved Fastloader](https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012/) - Replace .ini.
 
 [Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/).
 
-[Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - [Replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - Replace .ini.
 
 [Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
 
@@ -171,9 +163,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/).
 
-[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing). put "SKYGFX" folder in modloader (directory setup like this: gtasa/modloader/skygfx/).
+[SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - Replace .ini.
 
-[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - pick the ROSA preset.
+[Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - Replace .ini.
 
 [Full Stream Radar](https://www.mixmods.com.br/2015/01/full-stream-radar-fix-radar-sumindo/).
 
@@ -183,11 +175,11 @@ Optional (but recommended) GTA SA Mods:
 
 [Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) - read the install instruction in the readme.
 
-[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. Replace .ini.
 
 [Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5). Credit: KiloRyu
 
-[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
 [HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/).
 
@@ -197,11 +189,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
 
-[ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace its ini with [this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?dmr=1&ec=wgc-drive-globalnav-goto).
+[ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace .ini.
 
-[ImVehFt](https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/) - pick unofficial version 2.1.1.
-
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - [replace its ini with this](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - replace .ini.
 
 [Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - move all except its ini into Real Skybox folder, replacing when prompted.
 
@@ -211,7 +201,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - put this mod in "2" folder inside modloader folder.
 
-[Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder.
+[Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder. replace ini.
 
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/).
 
@@ -219,7 +209,7 @@ Optional (but recommended) GTA SA Mods:
 
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
 
-[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description).
+[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description) - (wip).
 
 [Functional Clock Townhall HD](https://www.mixmods.com.br/2021/04/functional-clock-townhall-hd-prefeitura-com-relogio-funcional/)
 
@@ -239,7 +229,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Cop Outfit](https://www.mixmods.com.br/2020/11/cop-outfit-v2-sem-estrela-ao-usar-roupa-da-policia/).
 
-[Damage Mark on the Screen](https://www.gtainside.com/en/sanandreas/mods/196954-damage-mark-on-the-screen/).
+[Damage Mark on the Screen](https://www.gtainside.com/en/sanandreas/mods/196954-damage-mark-on-the-screen/) - replace its ini.
 
 [Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/).
 
@@ -257,7 +247,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
 
-[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - choose the med preset.
+[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - (WIP).
 
 [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/).
 
@@ -265,11 +255,11 @@ Optional (but recommended) GTA SA Mods:
 
 [Hats for Peds](https://www.gtainside.com/en/sanandreas/mods/199704-hats-for-peds/).
 
-[HD Carl Bits](https://www.mixmods.com.br/2021/09/hd-carls-bits-moveis-remasterizados/).
+[HD Carl Bits](https://www.mixmods.com.br/2021/09/hd-carls-bits-moveis-remasterizados/) - (WIP).
 
 [Headlight Destroyer](https://www.gtainside.com/en/sanandreas/mods/195308-headlight-destroyer-v1-1/).
 
-[Helmet Mod](https://www.mixmods.com.br/2020/01/helmet-mod-v1-0-npcs-com-capacete/) - install the optional folder.
+[Helmet Mod](https://www.mixmods.com.br/2020/01/helmet-mod-v1-0-npcs-com-capacete/) - install the optional folder too.
 
 [Improved Barber](https://www.gtainside.com/en/sanandreas/mods-322/196981-improved-barber/).
 
@@ -287,7 +277,7 @@ Optional (but recommended) GTA SA Mods:
 
 [MenuUI](https://www.mixmods.com.br/2021/09/menuui-v1-5-menus-modernos/).
 
-[More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/).
+[More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/) - replace its .ini.
 
 [No Aggressive Drivers](https://www.mixmods.com.br/2021/12/no-aggressive-drivers-sem-motoristas-agressivos/).
 
@@ -309,12 +299,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
 
-[Realistic Spread](https://www.mixmods.com.br/2017/04/realistic-spread-corrigir-espalhamento-dos-tiros/).
-
-[Realistic Weapons Settings](https://www.mixmods.com.br/2017/04/realistic-weapons-settings-uso-de-armas-realista/).
-
-[Rear Lights Mod](https://www.gtainside.com/en/sanandreas/mods/191824-rear-lights-mod-v3-4/).
-
 [Remastered Pictures Mod](https://www.mixmods.com.br/2021/12/sa-sade-remastered-pictures-mod-quadros-com-fotos-hd/).
 
 [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
@@ -323,13 +307,7 @@ Optional (but recommended) GTA SA Mods:
 
 [SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/).
 
-[Stealing a car like in GTA IV](https://www.gtainside.com/en/sanandreas/mods/192426-stealing-a-car-like-in-gta-4).
-
-[Story Mode](https://www.mixmods.com.br/2022/11/story-mode/).
-
 [Tools Shop](https://www.mixmods.com.br/2020/12/tools-shop-loja-de-ferramentas/).
-
-[Traffic & Travel](https://www.mixmods.com.br/2019/01/traffic-travel-v2-7-1-trailers-avioes-etc/).
 
 [UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/).
 
@@ -342,3 +320,18 @@ Optional (but recommended) GTA SA Mods:
 [Siren Extender](https://www.mixmods.com.br/2018/08/siren-extender-v1-1-sirene-em-mais-carros/).
 
 [Multiple Siren Mod](https://www.mixmods.com.br/2018/08/multiple-siren-mod-sons-de-sirene-individuais/) - read the readme for install instruction.
+
+[Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
+
+Heavy Performance Impact mods:
+
+[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
+
+[Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace ini.
+
+[Shadow Fixes](https://drive.google.com/file/d/1_GZCQrnUIi0qeWt4RWVPPkxCeuTIP71c/view) - replace cranes_dyn2.col with [this](https://drive.google.com/file/d/1ZaeRI11nJM-fypN34mBjW0-biQ_Pu1Wc/view?usp=sharing). credit: KaiQ.
+
+[More Shadows](https://www.mediafire.com/file/oeuvn98rnkcrdbs/MoreShadows.rar/file) - copy/paste cols from this over to "Shadow Fixes" mod by KaiQ, replacing (if prompted). credit: Bahgat Saber.
+
+
+
