@@ -4,23 +4,17 @@ NOTE: You need to replace the setting files of the mods you download from this z
 
 Essential external tools/apps:
 
-[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from the google drive inside gta sa root folder (gtasa/dxvk.conf).
+[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from the google drive into gta sa root folder (gtasa/dxvk.conf).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
-[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder. replace gta_sa's specialk.ini (location: c:\program files\special k\profiles\gta_sa\specialk.ini). run gta_sa.exe with special k to play (more configuring on special k in game is needed - press crtl+shift+backspace to access the special k menu in game).
-
-Optional external tools/apps:
-
-[Playnite](https://playnite.link).
-
-[Special K Helper Playnite extension](https://wiki.special-k.info/en/SpecialK/Tools#playnite-extension-special-k-helper).
+[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu).
 
 Essential GTA SA Mods:
 
-[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from google drive.
+[Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from my google drive.
 
-Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from the list here into that "1" folder unless stated differently.
+Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from this zen gta sa mod list into that "1" folder unless stated differently.
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
@@ -28,7 +22,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [RunDLL32.exe Fix + GameUX.dll Fix](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/) - read the readme for instruction.
 
-[Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste (Or replace its ini with the one from Google Drive).
+[Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste (Or replace its ini with the one from Google Drive - inverted/gtaiv settings).
 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
 
@@ -38,7 +32,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Cleo 4.4.4](https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/) - read the readme for install instruction.
 
-[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace ini.
+[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini.
 
 <a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - replace ini.
 
@@ -48,9 +42,9 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 Optional (but recommended) GTA SA Mods:
 
-[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
+[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/) - (wip).
 
-[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/).
+[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/) - (wip).
 
 [New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/). replace algorithm5.cs inside cleo foler with the one from optional folder. copy/paste the folder "New Algorithm for Trains" to "1" folder inside your gta sa modloader folder. ignore the 2nd optional folder (crashes reported).
 
@@ -101,7 +95,7 @@ Optional (but recommended) GTA SA Mods:
 
 [SA Mobile Hands (Chars)](https://gtaforums.com/topic/752981-sa-mobile-hands/) - delete player folder.
 
-[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini (replace with the one from google drive).
+[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini (or replace with the one from google drive).
 
 [Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
@@ -125,7 +119,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
 
-[Smooth Criminal Bicycles](https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/).
+[Smooth Criminal Bicycles](https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/) - (wip).
 
 [Ped Fire Fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/).
 
@@ -135,9 +129,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Proper Fixes (for RoSA Evolved)](https://www.mixmods.com.br/2024/10/sa-proper-fixes/) - create a folder named as "2" and put it in modloader. put proper fixes in "2" folder. directory structure setup like this: gtasa/modloader/2/properfixes/. ignore the optional one (lod veg removal).
 
-[Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/) - put this mod in "2" folder inside modloader.
+[Uncompressed SFX Pack](https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/) - put this mod in "3" folder inside modloader.
 
-[Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html). credit: Rab1d.
+[Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html) - put in "2" folder inside modloader. credit: Rab1d.
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
 
@@ -161,8 +155,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Vehicle Immunities](https://www.mixmods.com.br/2016/02/vehicle-immunities-corrigir-trailers-explodindo-e-mais/).
 
-[Weapon Recoil Auto](https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/).
-
 [SkyGfx Extended and HD details ( Mobile_details.txd)](https://www.mixmods.com.br/2024/03/sa-skygfx/) - Replace .ini.
 
 [Improved Streaming](https://www.mixmods.com.br/2022/04/improved-streaming/) - Replace .ini.
@@ -177,7 +169,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. Replace .ini.
 
-[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5). Credit: KiloRyu
+[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - put in "2" folder inside modloader folder. Credit: KiloRyu
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
@@ -191,9 +183,9 @@ Optional (but recommended) GTA SA Mods:
 
 [ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace .ini.
 
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - replace .ini.
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - replace .ini (wip).
 
-[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - move all except its ini into Real Skybox folder, replacing when prompted.
+[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - move all except its ini into Real Skybox folder, replacing when prompted (WIP).
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
@@ -209,7 +201,7 @@ Optional (but recommended) GTA SA Mods:
 
 [zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
 
-[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description) - (wip).
+[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description) - delete peds.ifp (wip).
 
 [Functional Clock Townhall HD](https://www.mixmods.com.br/2021/04/functional-clock-townhall-hd-prefeitura-com-relogio-funcional/)
 
