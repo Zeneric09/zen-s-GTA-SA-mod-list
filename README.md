@@ -109,7 +109,7 @@ Optional (but recommended) GTA SA Mods:
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view). replace fsxfunction.ini.
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. delete "insects" folder fro effects folder. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view). replace fsxfunction.ini.
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
