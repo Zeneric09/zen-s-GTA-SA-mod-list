@@ -169,7 +169,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. Replace .ini.
 
-[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - put in "2" folder inside modloader folder. Credit: KiloRyu
+[ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi and etc). replace .ini.
+
+[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - delete "Alternative Vehicles" folder. put the .eml files from "EML Folder (IVF Sirens)" folder into modelextras' sirens folder (location: d:\gtasa\ModelExtras\sirens\). put "datalines" folder into "3" folder inside modloader folder. put the rest of the other folders into "2" folder inside modloader folder. Credit: KiloRyu
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
@@ -180,8 +182,6 @@ Optional (but recommended) GTA SA Mods:
 [Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/).
 
 [Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
-
-[ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi). replace .ini.
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - replace .ini (wip).
 
