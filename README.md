@@ -4,7 +4,7 @@ NOTE: You need to replace the setting files of the mods you download from this z
 
 Essential external tools/apps:
 
-[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from the google drive into gta sa root folder (gtasa/dxvk.conf).
+[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
