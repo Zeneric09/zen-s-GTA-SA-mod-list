@@ -1,5 +1,7 @@
 Zeneric's GTA SA mod list.
 
+NOTE: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [here(google drive)](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+
 Essential external tools/apps:
 
 [DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll).
