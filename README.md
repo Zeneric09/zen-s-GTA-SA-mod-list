@@ -315,15 +315,5 @@ Optional (but recommended) GTA SA Mods:
 
 [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
 
-Heavy Performance Impact mods:
-
-[Real Traffic Fix](https://www.mixmods.com.br/2022/04/real-traffic-fix/).
-
-[Shadows Settings Extender](https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/) - replace ini.
-
-[Shadow Fixes](https://drive.google.com/file/d/1_GZCQrnUIi0qeWt4RWVPPkxCeuTIP71c/view) - replace cranes_dyn2.col with [this](https://drive.google.com/file/d/1ZaeRI11nJM-fypN34mBjW0-biQ_Pu1Wc/view?usp=sharing). credit: KaiQ.
-
-[More Shadows](https://www.mediafire.com/file/oeuvn98rnkcrdbs/MoreShadows.rar/file) - copy/paste cols from this over to "Shadow Fixes" mod by KaiQ, replacing (if prompted). credit: Bahgat Saber.
-
 
 
