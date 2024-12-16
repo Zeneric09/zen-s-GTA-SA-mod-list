@@ -2,6 +2,8 @@ Zeneric's GTA SA v1.0 mod list.
 
 NOTE: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
+RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. bout 21gb of ram is needed to cram this whole zen mod list in the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for GTA SA to be put in.
+
 Essential external tools/apps:
 
 [DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
