@@ -79,7 +79,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/).
 
-[Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/).
+[Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/) - replace ini.
 
 [24hr Fixed Original Timecycle Colours](https://www.mixmods.com.br/2018/12/24h-fixed-original-timecycle-colours-1-1/) - put timecyc_24h.dat into gta sa's data folder (directory set up like this: gtasa/data/timecyc_24h.dat).
 
