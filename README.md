@@ -10,19 +10,21 @@ NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade
 
 NOTE2: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-Essential external tools/apps:
-
-[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
-
-[Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
-
-[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu).
+Required to run mods/GTA SA:
 
 [Visual C++ Redistributable runtime package All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) - (run as admin).
 
 [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-ca/download/details.aspx?id=8109).
 
- Zeneric's GTA SA Mod list:
+Essential external tools/apps for GTA SA optimizations:
+
+[DXVK-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
+
+[Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
+
+[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu). 
+
+ Zeneric's GTA SA Mod list Mods:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from my google drive.
 
