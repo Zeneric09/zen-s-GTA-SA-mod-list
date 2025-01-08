@@ -46,7 +46,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - replace ini.
 
-[Fastman92 Limit Adjuster](https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/) - choose "for GTA SA PC" download. read the readme for install instruction. replace its ini with the one from google drive.
+[Fastman92 Limit Adjuster](https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/) - choose "for GTA SA PC" download. read the readme for install instruction. replace its .ini and gtasa_weapon_config.dat with the ones from google drive.
 
 Optional (but recommended) GTA SA Mods:
 
