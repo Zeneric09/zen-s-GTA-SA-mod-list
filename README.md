@@ -18,6 +18,10 @@ Essential external tools/apps:
 
 [Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu).
 
+[Visual C++ Redistributable runtime package All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) - (run as admin).
+
+[DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-ca/download/details.aspx?id=8109).
+
  Zeneric's GTA SA Mod list:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from my google drive.
