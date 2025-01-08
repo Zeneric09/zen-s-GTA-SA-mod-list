@@ -42,7 +42,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases) - replace its ini with the one from google drive.
 
-<a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
+<a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a> - read the readme for install instruction.
 
 [Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
