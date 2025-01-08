@@ -275,9 +275,9 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Zen's Weapons/Pickups Remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
 
-[HD Railway Sign](https://libertycity.net/files/gta-san-andreas/179539-hd-zheleznodorozhnyjj-znak.html).
+[HD Railway Sign](https://libertycity.net/files/gta-san-andreas/179539-hd-zheleznodorozhnyjj-znak.html) - delete optional 4k texture folder.
 
-[HD telegraph pole](https://libertycity.net/files/gta-san-andreas/179540-hd-telegrafnyjj-stolb.html).
+[HD telegraph pole](https://libertycity.net/files/gta-san-andreas/179540-hd-telegrafnyjj-stolb.html) - delete optional 4k texture folder.
 
 [HD Garbage Hippo](https://libertycity.net/files/gta-san-andreas/179428-hd-musorka-begemotik.html).
 
@@ -333,10 +333,10 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [HD Audio system in B-Dup's house ](https://libertycity.net/files/gta-san-andreas/179645-hd-audiosistema-v-dome-bi-dapa.html).
 
-[HD Parking Booths](https://libertycity.net/files/gta-san-andreas/179644-hd-parkovochnye-budki.html).
+[HD Parking Booths](https://libertycity.net/files/gta-san-andreas/179644-hd-parkovochnye-budki.html) - delete optional 4k texture folder.
 
 [HD Supermarket Trolley](https://libertycity.net/files/gta-san-andreas/179359-hd-telezhka-iz-supermarketa.html).
 
-[Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html).
+[Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html) - delete optional low-res windows textures folder.
 
 [HQ Newspapers Stands](https://libertycity.net/files/gta-san-andreas/158540-hq-stendy-s-gazetami-hq-news-stands.html).
