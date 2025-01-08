@@ -4,7 +4,7 @@ Mods from this zen mod list running with GTA SA on my pc I get 70-155 (my monito
 
 [GTA SA Play-Thru|Zen's GTA SA Mod List Youtube Video](www.google.ca) - wip.
 
-RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. bout 21gb of ram is needed to cram this whole zen mod list in the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
+RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. bout 21gb of ram is needed to cram this whole zen mod list into the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
 
 NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade your GTA SA to 1.0 if it's not 1.0 (google for instruction).
 
