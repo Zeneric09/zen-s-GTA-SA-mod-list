@@ -165,7 +165,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
-[Model Variations](https://gtaforums.com/topic/977777-model-variations/) - replace its inis. modded inis include Model Variations Loaded (credit: Flaqko_), Trailers/Trucks (credit: matslick), and Zen's Weapons/pickups/items remake (zeneric).
+[Model Variations](https://gtaforums.com/topic/977777-model-variations/) - replace its inis. modded inis include Model Variations Loaded (credit: Flaqko_) and Trailers/Trucks (credit: matslick).
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/).
 
