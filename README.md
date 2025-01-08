@@ -137,6 +137,10 @@ Optional (but recommended) GTA SA Mods:
 
 [Realistic Population](https://www.mixmods.com.br/2021/11/sa-sade-realistic-population-more-peds-popcycle-dat/).
 
+[Realistic Traffic](https://www.gtainside.com/en///sanandreas/mods/95846-realistic-traffic-mod-v-3-0-final).
+
+[HD Basketball Court](https://libertycity.net/files/gta-san-andreas/200865-hd-basketbolnaja-ploshhadka.html) - use the optional urbanize one.
+
 [Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - Replace .ini.
 
 [Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
@@ -153,21 +157,25 @@ Optional (but recommended) GTA SA Mods:
 
 [Sky Gradient Fix](https://www.mixmods.com.br/2020/01/skygrad-sky-gradient-fix-corrigir-linhas-no-ceu/).
 
+[V to SA Handling](https://www.mixmods.com.br/2014/02/v-to-sa-handling/) - put this mod in "3" folder.
+
+[Carcols Fix](https://www.mixmods.com.br/2021/11/sa-sade-carcols-fix-corrigir-cores-dos-carros/) - put this mod in "2" folder.
+
 [Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) - read the install instruction in the readme.
 
 [Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. Replace .ini.
 
 [ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi and etc). replace .ini.
 
-[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - delete "Alternative Vehicles" folder. put the .eml files from "EML Folder (IVF Sirens)" folder into modelextras' sirens folder (location: d:\gtasa\ModelExtras\sirens\). put "datalines" folder into "3" folder inside modloader folder. put the rest of the other folders into "2" folder inside modloader folder. Credit: KiloRyu
+[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - delete "Alternative Vehicles" folder. put the .eml files from "EML Folder (IVF Sirens)" folder into modelextras' sirens folder (location: d:\gtasa\ModelExtras\sirens\). put the rest of the other folders into "2" folder inside modloader folder. Credit: KiloRyu
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
-[Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
+[Model Variations](https://gtaforums.com/topic/977777-model-variations/) - replace its inis. modded inis include Model Variations Loaded (credit: Flaqko_), Trailers/Trucks (credit: matslick), and Zen's Weapons/pickups/items remake (zeneric).
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/).
 
-[GTA SA Ezekiel Skybox addon](https://www.mediafire.com/file/syc0z32prd62ri0/GTA_SA_Ezekiel_Skybox_addon%252C_Timecyc%252C_2dfx_sets.rar/file) - replace the content of Real Skybox folder with the Real Skybox mod above (ignore the rest).
+[GTA SA Ezekiel Skybox addon](https://www.mediafire.com/file/syc0z32prd62ri0/GTA_SA_Ezekiel_Skybox_addon%252C_Timecyc%252C_2dfx_sets.rar/file) - replace the content of Real Skybox folder with the Real Skybox mod above (ignore the rest of this ezekiel mod).
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
@@ -199,6 +207,8 @@ Optional (but recommended) GTA SA Mods:
 
 [Emmet But Useful](https://www.mixmods.com.br/2022/07/sa-emmet-but-useful/).
 
+[Death Anims](https://www.gtainside.com/en/sanandreas/mods/192026-death-animations).
+
 [Exhaust Tweaker](https://www.mixmods.com.br/2015/07/exhaust-tweaker-v1-1-configurar-fumacas-dos-escapamentos/).
 
 [Faster Animation Of Sellers](https://www.gtainside.com/en/sanandreas/mods/196525-faster-animation-of-sellers/).
@@ -217,11 +227,15 @@ Optional (but recommended) GTA SA Mods:
 
 [Melee Hit Sound](https://www.mixmods.com.br/2021/03/melee-hit-sound-v1-1-som-de-impacto-de-arma-branca/).
 
+[Proper Radar](https://www.mixmods.com.br/2022/07/proper-radar/).
+
 [MenuUI](https://www.mixmods.com.br/2021/09/menuui-v1-5-menus-modernos/).
 
 [More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/) - replace its .ini.
 
 [Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
+
+[Carwash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/).
 
 [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/).
 
