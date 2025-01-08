@@ -18,7 +18,7 @@ Required to run GTA SA/mods:
 
 Essential external tools/apps for GTA SA optimizations:
 
-[DXVK](https://github.com/doitsujin/dxvk/releases) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
+[DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync/-/artifacts) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). put dxvk.conf downloaded from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing) into gta sa root folder (gtasa/dxvk.conf).
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
