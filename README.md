@@ -329,8 +329,14 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [HD pizza leftovers](https://libertycity.net/files/gta-san-andreas/179753-hd-ostatki-piccy.html).
 
+[HD Road Sign](https://libertycity.net/files/gta-san-andreas/181364-hd-dorozhnyjj-znak.html).
 
+[HD Audio system in B-Dup's house ](https://libertycity.net/files/gta-san-andreas/179645-hd-audiosistema-v-dome-bi-dapa.html).
 
+[HD Parking Booths](https://libertycity.net/files/gta-san-andreas/179644-hd-parkovochnye-budki.html).
 
+[HD Supermarket Trolley](https://libertycity.net/files/gta-san-andreas/179359-hd-telezhka-iz-supermarketa.html).
 
 [Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html).
+
+[HQ Newspapers Stands](https://libertycity.net/files/gta-san-andreas/158540-hq-stendy-s-gazetami-hq-news-stands.html).
