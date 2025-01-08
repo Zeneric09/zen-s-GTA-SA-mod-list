@@ -46,6 +46,8 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
+[IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat and replace imfx.dat with the one from google drive.
+
 [Mixsets (forked version by m0b-x)](https://github.com/m0b-x/SA-MixSets/releases) - replace ini. Mixsets ini (and imfx.dat) from google drive is already configured to use m0b-x's new gun functions.
 
 [Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
@@ -70,8 +72,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 ">Car Crash Anim</a>.
 
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
-
-[IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat and replace imfx.dat with the one from google drive.
 
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
 
