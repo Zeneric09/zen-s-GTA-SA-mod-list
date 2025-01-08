@@ -30,7 +30,7 @@ Essential external tools/apps for GTA SA optimizations:
 
 Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from this zen gta sa mod list into that "1" folder unless stated differently.
 
-[Cleo 5](https://cleo.li/) - read the readme for install instruction (not to be placed in "1" folder!).
+[Cleo 4](https://github.com/cleolibrary/CLEO4/releases/tag/v4.4.4) - read the readme for install instruction (not to be placed in "1" folder!).
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/) - read the readme for install instruction (also not to be placed in "1" folder).
 
