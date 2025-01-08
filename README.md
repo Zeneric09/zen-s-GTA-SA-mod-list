@@ -10,7 +10,7 @@ NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade
 
 NOTE2: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
-Required to run mods/GTA SA:
+Required to run GTA SA/mods:
 
 [Visual C++ Redistributable runtime package All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) - (run as admin).
 
