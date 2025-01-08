@@ -159,8 +159,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Mobile Font Fixed](https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/) - read the install instruction in the readme.
 
-[Color mod](https://www.mixmods.com.br/2022/09/sa-color-mod/) - read the install instruction in the read me. Replace .ini.
-
 [ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi and etc). replace .ini.
 
 [Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - delete "Alternative Vehicles" folder. put the .eml files from "EML Folder (IVF Sirens)" folder into modelextras' sirens folder (location: d:\gtasa\ModelExtras\sirens\). put the rest of the other folders into "2" folder inside modloader folder. Credit: KiloRyu
