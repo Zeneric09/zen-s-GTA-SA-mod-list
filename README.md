@@ -32,7 +32,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Ginput](https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/) - if you use a controller to play GTA SA, this mod is essential for you. If you don't use a controller for GTA SA, ignore this mod. Put GInput folder into 1 folder inside modloader folder. Configure its ini and tweak it into your controller style/taste (Or replace its ini with the one from Google Drive - inverted/gtaiv settings).
 
-[Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
+[Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases) - replace its ini with the one from google drive.
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
 
