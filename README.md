@@ -46,7 +46,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
-<a href="[https://github.com/m0b-x/SA-MixSets/releases]">MixSets (forked version)</a> - replace ini. Mixsets ini (and imfx.dat) from google drive is already configured to use mOb-x's new gun functions.
+[Mixsets (forked version by m0b-x](https://github.com/m0b-x/SA-MixSets/releases) - replace ini. Mixsets ini (and imfx.dat) from google drive is already configured to use mOb-x's new gun functions.
 
 [Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
 
