@@ -32,7 +32,9 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Silent's ASI Loader](https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/).
 
-[NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction (not to be placed in "1" folder!).
+[Cleo 5](https://cleo.li/) - read the readme for install instruction (not to be placed in "1" folder!).
+
+[NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction.
 
 [RunDLL32.exe Fix + GameUX.dll Fix](https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/) - read the readme for instruction.
 
@@ -41,8 +43,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases) - replace its ini with the one from google drive.
 
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
-
-[Cleo 5](https://cleo.li/) - read the readme for install instruction.
 
 [Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
