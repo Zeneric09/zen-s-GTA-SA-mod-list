@@ -67,8 +67,6 @@ Optional (but recommended) GTA SA Mods:
 <a href="https://www.mixmods.com.br/2014/06/car-crash-anim-ir-pra-frente-quando-bater/
 ">Car Crash Anim</a>.
 
-<a href="https://www.mixmods.com.br/2017/02/collision-tweaker-editar-reacao-de-colisao-em-veiculos/">Collision Tweaker</a>.
-
 [Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
 
 [IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat.
@@ -78,8 +76,6 @@ Optional (but recommended) GTA SA Mods:
 [ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder. Replace .ini.
 
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a> - replace ini.
-
-[Civdens.asi by Ryosuke](https://www.mixmods.com.br/2016/05/civdens-asi-by-ryosuke-mais-trafego-e-pedestres/) - put civdens.asi and civdens.ini in gta sa root folder. Replace .ini.
 
 <a href="https://www.mixmods.com.br/2018/07/copsdriveby-policiais-atirando-do-carro/">CopsDriveBy</a>.
 
@@ -99,12 +95,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Illuminated Vinewood Sign](https://www.mixmods.com.br/2021/10/illuminated-vinewood-sign-placa-de-vinewood-iluminada/).
 
-[Mobile Hands](https://www.mixmods.com.br/2021/03/mobile-xbox-hands-maos-com-dedos-separados/) - pick the mobile version.
-
-[SA Mobile Hands (Chars)](https://gtaforums.com/topic/752981-sa-mobile-hands/) - delete player folder.
-
-[Ped Spec](https://www.mixmods.com.br/2015/02/ped-spec-iluminacao-specular-nas-pessoas-como-no-mobile/) - required for mobile hands to work correctly. pick the no effect version .ini (or replace with the one from google drive).
-
 [Improved Surface Physics](https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/).
 
 [Improved Move](https://www.mixmods.com.br/2021/08/improvedmove/).
@@ -112,8 +102,6 @@ Optional (but recommended) GTA SA Mods:
 [Animal Statues Remastered](https://www.mixmods.com.br/2020/02/animal-statues-remastered-estatuas-de-animais-em-hd/).
 
 [Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/).
-
-[Meshsmooth pack by Hysen](https://www.mixmods.com.br/2022/07/sa-meshsmooth-pack-by-hysen/).
 
 [Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
 
@@ -126,8 +114,6 @@ Optional (but recommended) GTA SA Mods:
 [Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
 
 [Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
-
-[Smooth Criminal Bicycles](https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/) - (wip).
 
 [Ped Fire Fix](https://www.mixmods.com.br/2018/10/ped-fire-fix-v1-1-corrigir-pedestres-pegando-fogo/).
 
@@ -142,12 +128,6 @@ Optional (but recommended) GTA SA Mods:
 [Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html) - put in "2" folder inside modloader. credit: Rab1d.
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
-
-[Rain Mods By TrushinVlad (Updated by ArtemQa146)](https://www.gtainside.com/en/sanandreas/mods-322/198267-rain-mods-by-trushinvlad-updated-by-artemqa146/).
-
-[Death Animations EDIT](https://drive.google.com/file/d/1XYxukNydWAeYNvZNUt6-NbhIWYm-FN3f/view?usp=sharing) - created by ArtemQa146 and edited by Nikolai Misgenderov.
-
-[Player Move Head](https://www.mixmods.com.br/2020/09/player-move-head-mover-a-cabeca-pra-onde-apontar/).
 
 [Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/).
 
@@ -183,17 +163,11 @@ Optional (but recommended) GTA SA Mods:
 
 [Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
 
-[HD Carl's Home](https://www.mixmods.com.br/2022/08/sa-hd-carls-home-by-zeneric-casa-do-cj-remasterizada/).
-
-[Improved Dumpsters](https://www.mixmods.com.br/2021/08/improved-dumpsters-lixeiras-remasterizadas-em-hd/).
-
-[Rust Oceanic and Hustler](https://www.mixmods.com.br/2021/04/rust-oceanic-and-hustler-carros-abandonados-em-hd/).
-
 [Zen's mod pack](https://drive.google.com/file/d/1wFfgHePS5x5mCnXc65fQwmBJ-OQ5bkY0/view?usp=sharing).
 
-[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/) - replace .ini (wip).
+[Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/).
 
-[Real Skygbox boxes by Crowdigger and Zeneric](https://www.mixmods.com.br/2020/08/real-skybox-skyboxes-by-crowdigger-novos-ceus-hd/) - move all except its ini into Real Skybox folder, replacing when prompted (WIP).
+[GTA SA Ezekiel Skybox addon](https://www.mediafire.com/file/syc0z32prd62ri0/GTA_SA_Ezekiel_Skybox_addon%252C_Timecyc%252C_2dfx_sets.rar/file) - replace the content of Real Skybox folder with the Real Skybox mod above (ignore the rest).
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
@@ -207,23 +181,11 @@ Optional (but recommended) GTA SA Mods:
 
 <a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>.
 
-[zen lamps](https://drive.google.com/file/d/1KPdCjFoB6E4FUkJUy5bssxtkNNf2hLBg/view?usp=sharing).
-
-[Zen's GTASA Weapons-Pickups Remake](https://www.nexusmods.com/gtasanandreas/mods/2799?tab=description) - delete peds.ifp (wip).
-
-[Functional Clock Townhall HD](https://www.mixmods.com.br/2021/04/functional-clock-townhall-hd-prefeitura-com-relogio-funcional/)
-
-[Zen's HD Buffalo](https://www.nexusmods.com/gtasanandreas/mods/2835?tab=description).
-
 [Air Brake Sound](https://www.mixmods.com.br/2022/05/air-brake-sound/).
 
-[Animation Fix + M4k3 Anims](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/) - install Animation Fix + M4k3 New Car Animations folder only (ignore the rest).
+[Animation Fix + M4k3 Anims](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/) - install Animation Fix + M4k3 New Car Animations folder only (ignore the rest). and delete ped.ifp.
 
 [Atmosphere Interface Pack](https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/).
-
-[Bike on Air Reaction](https://www.mixmods.com.br/2020/08/bike-on-air-reaction-se-levantar-na-moto/).
-
-[Bus With Passengers](https://www.mixmods.com.br/2018/05/bus-with-passengers-v2-onibus-com-passageiros/).
 
 [Car Wash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/).
 
@@ -232,10 +194,6 @@ Optional (but recommended) GTA SA Mods:
 [Damage Mark on the Screen](https://www.gtainside.com/en/sanandreas/mods/196954-damage-mark-on-the-screen/) - replace its ini.
 
 [Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/).
-
-[Death In Car](https://www.mixmods.com.br/2022/06/death-in-car-morrer-dentro-do-carro/).
-
-[Destructive Rhino Mod](https://www.mixmods.com.br/2022/08/sa-destructive-rhino-mod/).
 
 [Dynamic Weapon Draw Sound](https://www.mixmods.com.br/2019/09/dynamic-weapon-draw-sound-v2-5-som-ao-manusear-arma/).
 
@@ -247,21 +205,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
 
-[Formal 2K Grass Textures](https://www.mixmods.com.br/2018/12/formal-2k-grass-textures-grama-hd/) - (WIP).
-
 [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/).
 
-[Hangout with Story Characters](https://www.mixmods.com.br/2020/06/hangout-with-story-characters-recrutar-personagens/) - install optional Random Model Appearances folder too (ignore the other optional ones).
-
-[Hats for Peds](https://www.gtainside.com/en/sanandreas/mods/199704-hats-for-peds/).
-
-[HD Carl Bits](https://www.mixmods.com.br/2021/09/hd-carls-bits-moveis-remasterizados/) - (WIP).
-
-[Headlight Destroyer](https://www.gtainside.com/en/sanandreas/mods/195308-headlight-destroyer-v1-1/).
-
 [Helmet Mod](https://www.mixmods.com.br/2020/01/helmet-mod-v1-0-npcs-com-capacete/) - install the optional folder too.
-
-[Improved Barber](https://www.gtainside.com/en/sanandreas/mods-322/196981-improved-barber/).
 
 [Improved Jetpack Control](https://www.mixmods.com.br/2021/07/improved-jetpack-control-melhorar-controle-do-jetpack/).
 
@@ -269,25 +215,15 @@ Optional (but recommended) GTA SA Mods:
 
 [Infernus HD Remastered](https://www.mixmods.com.br/2019/09/infernus-hd-remastered-by-ezekiel/) - install the imvehft version.
 
-[Ladders Mod](https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas/).
-
-[Loadscreens 4K Definitive](https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/).
-
 [Melee Hit Sound](https://www.mixmods.com.br/2021/03/melee-hit-sound-v1-1-som-de-impacto-de-arma-branca/).
 
 [MenuUI](https://www.mixmods.com.br/2021/09/menuui-v1-5-menus-modernos/).
 
 [More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/) - replace its .ini.
 
-[No Aggressive Drivers](https://www.mixmods.com.br/2021/12/no-aggressive-drivers-sem-motoristas-agressivos/).
-
 [Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
 
-[Ped Dead Float Fix](https://www.mixmods.com.br/2019/04/ped-dead-float-fix-nao-boiar-ao-morrer/).
-
 [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/).
-
-[Peds Extender](https://www.mixmods.com.br/2022/08/peds-extender/).
 
 [Peds Dont Drown](https://www.mixmods.com.br/2020/01/pedsdontdrown-pedestres-sabem-nadar/).
 
@@ -299,8 +235,6 @@ Optional (but recommended) GTA SA Mods:
 
 [Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
 
-[Remastered Pictures Mod](https://www.mixmods.com.br/2021/12/sa-sade-remastered-pictures-mod-quadros-com-fotos-hd/).
-
 [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
 
 [SADE Big Ear Telescope to SA](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/).
@@ -308,8 +242,6 @@ Optional (but recommended) GTA SA Mods:
 [SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/).
 
 [Tools Shop](https://www.mixmods.com.br/2020/12/tools-shop-loja-de-ferramentas/).
-
-[UFO Bar Lit](https://www.mixmods.com.br/2022/09/ufo-bar-lit-luz-no-disco-voador/).
 
 [Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/).
 
