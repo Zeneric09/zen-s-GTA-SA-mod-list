@@ -18,7 +18,7 @@ Essential external tools/apps:
 
 [Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu).
 
-Essential GTA SA Mods:
+ Zeneric's GTA SA Mod list:
 
 [Modloader](https://www.mixmods.com.br/2018/01/modloader/) - read the install instruction in the readme. Replace modloader.ini with the one from my google drive.
 
@@ -45,10 +45,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
 
 [SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - replace ini.
-
-[Fastman92 Limit Adjuster](https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/) - choose "for GTA SA PC" download. read the readme for install instruction. replace its .ini and gtasa_weapon_config.dat with the ones from google drive.
-
-Optional (but recommended) GTA SA Mods:
 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
@@ -269,5 +265,9 @@ Optional (but recommended) GTA SA Mods:
 
 [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
 
+[CJ Chars Meshsmoothed 2025](https://drive.google.com/drive/u/1/folders/17aAK9IPRYWyotJgCHad8tq7wTEj7NowN).
 
+[HD Carl Home by Zeneric](https://drive.google.com/drive/u/1/folders/1ACLW1hzXZcVw1fVSeW-b8sAp4-2cVbeO).
+
+[Zen's Weapons/Pickups Remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
 
