@@ -1,12 +1,12 @@
 Zeneric's GTA SA Mod List.
 
-Mods from this zen mod list running with GTA SA on my pc I get about 70-150 fps in game. my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11 (see the youtube video below to check out the fps).
+Mods from this zen mod list running with GTA SA on my pc I get 70-155 (my monitor max hz) fps in game. my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11 (see the youtube video below to check out the fps).
 
 [GTA SA Play-Thru|Zen's GTA SA Mod List Youtube Video](www.google.ca) - wip.
 
-RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. bout 21gb of ram is needed to cram this whole zen mod list in the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for GTA SA to be put in.
+RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. bout 21gb of ram is needed to cram this whole zen mod list in the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
 
-NOTE1: GTA SA version must be 1.0 for the mods, from this list, to work. Downgrade your GTA SA to 1.0 if it's not 1.0 (google for instruction).
+NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade your GTA SA to 1.0 if it's not 1.0 (google for instruction).
 
 NOTE2: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
 
@@ -34,13 +34,11 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Silent Patch](https://github.com/CookiePLMonster/SilentPatch/releases).
 
-[IndieVehicles](https://www.mixmods.com.br/2019/08/indievehicles/).
-
 <a href="https://www.mixmods.com.br/2023/10/cleoplus/">Cleo+</a>.
 
-[Cleo 4.4.4](https://www.mixmods.com.br/2020/10/biblioteca-cleo-4-4/) - read the readme for install instruction.
+[Cleo 5](https://cleo.li/) - read the readme for install instruction.
 
-[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini.
+[Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
 <a href="https://www.mixmods.com.br/2022/03/sa-mixsets/">MixSets</a> - replace ini.
 
@@ -48,11 +46,13 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - replace ini.
 
+[Fastman92 Limit Adjuster](https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/) - choose "for GTA SA PC" download. read the readme for install instruction. replace its ini with the one from google drive.
+
 Optional (but recommended) GTA SA Mods:
 
-[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/) - (wip).
+[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
-[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/) - (wip).
+[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/).
 
 [New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/). replace algorithm5.cs inside cleo foler with the one from optional folder. copy/paste the folder "New Algorithm for Trains" to "1" folder inside your gta sa modloader folder. ignore the 2nd optional folder (crashes reported).
 
