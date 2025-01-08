@@ -68,11 +68,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 <a href="https://www.mixmods.com.br/2019/11/burned-peds-peds-queimados/">Burned Peds</a>.
 
-<a href="https://www.mixmods.com.br/2014/06/car-crash-anim-ir-pra-frente-quando-bater/
-">Car Crash Anim</a>.
-
-[Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/).
-
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
 
 [ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder. Replace .ini.
@@ -308,6 +303,8 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [HD Ten Green Bottles bar sign from Definitive Edition](https://libertycity.net/files/gta-san-andreas/179299-hd-vyveska-bara-ten-green-bottles-iz.html).
 
 [HD Santa Monica Sign](https://libertycity.net/files/gta-san-andreas/197077-hd-vyveska-santa-monika.html).
+
+[Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/) - delete Carousel folder. and delete "remove original" folder from Ticket Stand HD folder
 
 [HD Food Kiosk](https://libertycity.net/files/gta-san-andreas/194940-hd-kiosk-s-edojj.html).
 
