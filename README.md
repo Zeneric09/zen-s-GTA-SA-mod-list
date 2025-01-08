@@ -175,7 +175,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/).
 
-[GTA SA Ezekiel Skybox addon](https://www.mediafire.com/file/syc0z32prd62ri0/GTA_SA_Ezekiel_Skybox_addon%252C_Timecyc%252C_2dfx_sets.rar/file) - replace the content of Real Skybox folder with the Real Skybox mod above (ignore the rest of this ezekiel mod).
+[GTA SA Ezekiel Skybox addon](https://libertycity.net/files/gta-san-andreas/172817-4k-nebo-i-zvezdy-new-sky-and-stars.html) - replace the content of Real Skybox folder with the Real Skybox mod above.
 
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
 
@@ -275,3 +275,62 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Zen's Weapons/Pickups Remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
 
+[HD Railway Sign](https://libertycity.net/files/gta-san-andreas/179539-hd-zheleznodorozhnyjj-znak.html).
+
+[HD telegraph pole](https://libertycity.net/files/gta-san-andreas/179540-hd-telegrafnyjj-stolb.html).
+
+[HD Garbage Hippo](https://libertycity.net/files/gta-san-andreas/179428-hd-musorka-begemotik.html).
+
+[HD Trash can from Cluckin' Bell ](https://libertycity.net/files/gta-san-andreas/179429-hd-musorka-iz-cluckin-bell.html).
+
+[HD oil rigs](https://libertycity.net/files/gta-san-andreas/179427-hd-neftjanye-vyshki.html).
+
+[HD Pack of trash cans](https://libertycity.net/files/gta-san-andreas/179431-hd-pak-musornykh-vjoder.html).
+
+[Improved Bus Stop](https://libertycity.net/files/gta-san-andreas/158539-hq-avtobusnaja-ostanovka-improved-bus.html).
+
+[HD Wooden bench](https://libertycity.net/files/gta-san-andreas/179355-hd-derevjannaja-lavochka.html).
+
+[HD Stone Seat](https://libertycity.net/files/gta-san-andreas/179356-hd-kamennaja-lavochka.html).
+
+[HD Burger](https://libertycity.net/files/gta-san-andreas/179357-hd-burger.html).
+
+[HD Basketball Hoop](https://libertycity.net/files/gta-san-andreas/179296-hd-basketbolnoe-kolco.html).
+
+[Big Smoke's Lit House](https://libertycity.net/files/gta-san-andreas/179300-uluchshennoe-osveshhenie-doma-big-smouka.html).
+
+[HD Barrels](https://libertycity.net/files/gta-san-andreas/179297-hd-bochki.html).
+
+[Improved Fuel tanks](https://libertycity.net/files/gta-san-andreas/179295-uluchshennye-cisterny-s-toplivom.html).
+
+[HD Wash Gas Tank](https://libertycity.net/files/gta-san-andreas/179298-hd-zapravochnaja-kolonka.html).
+
+[HD Ten Green Bottles bar sign from Definitive Edition](https://libertycity.net/files/gta-san-andreas/179299-hd-vyveska-bara-ten-green-bottles-iz.html).
+
+[HD Santa Monica Sign](https://libertycity.net/files/gta-san-andreas/197077-hd-vyveska-santa-monika.html).
+
+[HD Food Kiosk](https://libertycity.net/files/gta-san-andreas/194940-hd-kiosk-s-edojj.html).
+
+[HD Aztec House](https://libertycity.net/files/gta-san-andreas/193281-hd-dom-actekov.html).
+
+[Improved Sweet Home](https://libertycity.net/files/gta-san-andreas/188538-uluchshennyjj-dom-svita.html).
+
+[HD Water Tower](https://libertycity.net/files/gta-san-andreas/184129-hd-vodonapornaja-bashnja.html).
+
+[HD Tables and Chairs in Bars](https://libertycity.net/files/gta-san-andreas/183585-hd-stoly-i-stulja-v-barakh.html).
+
+[HD 3D Metal Fence](https://libertycity.net/files/gta-san-andreas/182837-hd-3d-metallicheskijj-zabor.html).
+
+[HD Berth](https://libertycity.net/files/gta-san-andreas/181934-hd-prichal.html).
+
+[HD Phone booth](https://libertycity.net/files/gta-san-andreas/180190-hd-telefonnaja-budka.html).
+
+[HD Umbrella Counter](https://libertycity.net/files/gta-san-andreas/179754-hd-prilavok-s-zontikom.html).
+
+[HD pizza leftovers](https://libertycity.net/files/gta-san-andreas/179753-hd-ostatki-piccy.html).
+
+
+
+
+
+[Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html).
