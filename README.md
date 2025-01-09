@@ -66,8 +66,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 <a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>.
 
-<a href="https://www.mixmods.com.br/2019/11/burned-peds-peds-queimados/">Burned Peds</a>.
-
 [LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
 
 [ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder. Replace .ini.
@@ -136,8 +134,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Realistic Traffic](https://www.gtainside.com/en///sanandreas/mods/95846-realistic-traffic-mod-v-3-0-final).
 
-[HD Basketball Court](https://libertycity.net/files/gta-san-andreas/200865-hd-basketbolnaja-ploshhadka.html) - use the optional urbanize one.
-
 [Shot Cam Shake](https://www.mixmods.com.br/2018/12/shot-cam-shake-tremer-tela-enquanto-atira/) - Replace .ini.
 
 [Throw Rotate fix](https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/).
@@ -200,8 +196,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Dynamic Weapon Draw Sound](https://www.mixmods.com.br/2019/09/dynamic-weapon-draw-sound-v2-5-som-ao-manusear-arma/).
 
-[Emmet But Useful](https://www.mixmods.com.br/2022/07/sa-emmet-but-useful/).
-
 [Death Anims](https://www.gtainside.com/en/sanandreas/mods/192026-death-animations).
 
 [Exhaust Tweaker](https://www.mixmods.com.br/2015/07/exhaust-tweaker-v1-1-configurar-fumacas-dos-escapamentos/).
@@ -240,6 +234,8 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Proper HD Models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
+[EnhancedGXT](https://gtaforums.com/topic/986600-sa-enhancedgxt/) - read the install instruction.
+
 [Prostitutes Money Drop Fix](https://www.mixmods.com.br/2022/04/prostitutes-money-drop-fix/).
 
 [Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
@@ -249,8 +245,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [SADE Big Ear Telescope to SA](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/).
 
 [SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/).
-
-[Tools Shop](https://www.mixmods.com.br/2020/12/tools-shop-loja-de-ferramentas/).
 
 [Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/).
 
