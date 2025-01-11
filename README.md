@@ -246,8 +246,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/).
 
-[Wheel Detach](https://www.mixmods.com.br/2020/07/wheel-detach-soltar-ou-estourar-roda/).
-
 [Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/).
 
 [Siren Extender](https://www.mixmods.com.br/2018/08/siren-extender-v1-1-sirene-em-mais-carros/).
