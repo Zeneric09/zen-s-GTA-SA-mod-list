@@ -329,3 +329,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html) - delete optional low-res windows textures folder.
 
 [HQ Newspapers Stands](https://libertycity.net/files/gta-san-andreas/158540-hq-stendy-s-gazetami-hq-news-stands.html).
+
+[Zen's Lamps](https://drive.google.com/file/d/1FTHAG6XKeSve-RU3nkWiJZjCsriRYySK/view).
+
+[Zen's Weapons/pickups/items remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
