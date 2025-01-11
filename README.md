@@ -198,8 +198,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Death Anims](https://www.gtainside.com/en/sanandreas/mods/192026-death-animations).
 
-[Exhaust Tweaker](https://www.mixmods.com.br/2015/07/exhaust-tweaker-v1-1-configurar-fumacas-dos-escapamentos/).
-
 [Faster Animation Of Sellers](https://www.gtainside.com/en/sanandreas/mods/196525-faster-animation-of-sellers/).
 
 [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
