@@ -1,6 +1,6 @@
 Zeneric's GTA SA Mod List.
 
-Mods from this zen mod list running with GTA SA on my pc I get 70-155 (my monitor max hz) fps in game on 4k screen res (+ x4 MSAA). my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
+Mods from this zen mod list running with GTA SA on my pc I get 70-155 (my monitor max hz) fps in game on 4k screen res (+ x8 MSAA). my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
 
 [GTA SA Play-Thru|Zen's GTA SA Mod List Youtube Video](www.google.ca) - wip.
 
