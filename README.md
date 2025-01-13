@@ -258,8 +258,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [HD Carl Home by Zeneric](https://drive.google.com/drive/u/1/folders/1ACLW1hzXZcVw1fVSeW-b8sAp4-2cVbeO).
 
-[Zen's Weapons/Pickups Remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
-
 [HD Railway Sign](https://libertycity.net/files/gta-san-andreas/179539-hd-zheleznodorozhnyjj-znak.html) - delete optional 4k texture folder.
 
 [HD telegraph pole](https://libertycity.net/files/gta-san-andreas/179540-hd-telegrafnyjj-stolb.html) - delete optional 4k texture folder.
