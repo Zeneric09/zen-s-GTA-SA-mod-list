@@ -30,9 +30,7 @@ Essential external tools/apps for GTA SA optimizations:
 
 Create a folder in the modloader folder and name it as "1" (directory structure set up like this: gtasa/modloader/1/) and put all mods from this zen gta sa mod list into that "1" folder unless stated differently.
 
-[CLEO 5](https://github.com/cleolibrary/CLEO5/releases) - (pick the standalone version - don't download/install the one that includes silent loader or ultimate loader). read the readme for install instruction (not to be placed in "1" folder!).
-
-[Silent Loader](https://www.gtagarage.com/mods/show.php?id=21709) - read the install instruction.
+[CLEO 5 + Silent Loader](https://github.com/cleolibrary/CLEO5/releases) - (pick the silent loader version). read the readme for install instruction (not to be placed in "1" folder!).
 
 [NoDEP](https://www.mixmods.com.br/2015/03/nodep-desativar-dep/) - read the readme for install instruction.
 
