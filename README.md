@@ -178,8 +178,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/).
 
-<a href="https://libertycity.net/files/gta-san-andreas/117281-kapsuly-adrenalina-iz-gta-vc.html">Adrenaline capsules from GTA VC (updated again)</a>.
-
 [Air Brake Sound](https://www.mixmods.com.br/2022/05/air-brake-sound/).
 
 [Animation Fix + M4k3 Anims](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/) - install Animation Fix + M4k3 New Car Animations folder only (ignore the rest). and delete ped.ifp.
