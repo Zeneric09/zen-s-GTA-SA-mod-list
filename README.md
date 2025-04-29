@@ -1,14 +1,14 @@
 Zeneric's GTA SA Mod List.
 
-Mods from this zen mod list running with GTA SA on my pc I get 70-155 (my monitor max hz) fps in game on 4k screen res (+ x8 MSAA). my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
+Mods from this zen mod list running with GTA SA on my pc I get 70-164 (my monitor max hz) fps in game on 4k screen res (+ x8 MSAA). my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
 
 [GTA SA Play-Thru|Zen's GTA SA Mod List Youtube Video](www.google.ca) - wip.
 
-RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. about 21gb of ram is needed to cram this whole zen mod list into the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
+RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. 20gb of ram is needed to cram this whole zen mod list into the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
 
 NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade your GTA SA to 1.0 if it's not 1.0 (google for instruction).
 
-NOTE2: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1xVbDgAr3ppv_5dsITO_FTtU1Vhr9Y5Zn?usp=sharing).
+NOTE2: You need to replace the setting files of the mods you download from this zen gta sa mod list with the setting files from [my google drive](https://drive.google.com/drive/folders/1L9l0SNIwJLDdt476Wpzy8daAyfuNg5i9?usp=sharing).
 
 Required to run GTA SA/mods:
 
@@ -18,11 +18,11 @@ Required to run GTA SA/mods:
 
 Essential external tools/apps for GTA SA optimizations:
 
-[DXVK](https://github.com/doitsujin/dxvk/releases/) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll).
+[DXVK](https://github.com/doitsujin/dxvk/releases/) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). DXVK's purpose is to lessen the stuttering problem in GTA SA.
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
-[Special K](https://www.special-k.info/) - run gta_sa.exe with special k first to generate specialk.ini inside special k's profiles gta_sa folder (location: c:\program files\special k\profiles\gta_sa\specialk.ini). replace gta_sa specialk.ini with the one from my google drive. run gta_sa.exe with special k to play (more special k configuring in game is needed - press crtl+shift+backspace in-game to access special k menu). 
+[Special K](https://www.special-k.info/). Needs DXVK for this Special K app to work with GTA SA.
 
  Zeneric's GTA SA Mod list Mods:
 
@@ -46,13 +46,11 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Project2dfx + Open Limit Adjuster](https://www.mixmods.com.br/2020/02/sa-project2dfx/) - install both project2dfx and open limit adjuster folders into "1" folder inside modloader folder. Replace SALodLights.ini and III.VC.SA.LimitAdjuster.ini.
 
-[IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/) - delete gunflash.dat and replace imfx.dat with the one from google drive.
+[IMFX](https://www.mixmods.com.br/2018/09/imfx-improved-fx/).
 
 [Mixsets](https://www.mixmods.com.br/2022/03/sa-mixsets/) - replace ini.
 
 [Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
-
-[SA Windowed Mode](https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/) - replace ini.
 
 [Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
 
@@ -64,10 +62,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a> - replace ini.
 
-<a href="https://www.mixmods.com.br/2016/06/backfire-als-v2-5-mod-estalar-escapamento/">Backfire ALS</a>.
-
-[LS Lit Church](https://www.mixmods.com.br/2022/03/ls-lit-church-igreja-com-luzes-acesas/).
-
 [ECG](https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/) - copy/paste/move "Enhance ParticleTXD" folder only to "1" folder inside modloader folder. Replace .ini.
 
 <a href="https://www.mixmods.com.br/2023/01/sa-vehfuncs/">Vehfuncs</a> - replace ini.
@@ -76,15 +70,11 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 <a href="https://www.mixmods.com.br/2020/10/fair-police-v2-0-2-policiais-atacam-pedestres/">Fair Police</a>.
 
-[Fireman Fireproof Fix](https://www.mixmods.com.br/2020/02/vc-sa-fireman-fireproof-fix-bombeiros-resistentes-ao-fogo/).
-
 [Framerate Vigilante](https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/) - replace ini.
 
 [24hr Fixed Original Timecycle Colours](https://www.mixmods.com.br/2018/12/24h-fixed-original-timecycle-colours-1-1/) - put timecyc_24h.dat into gta sa's data folder (directory set up like this: gtasa/data/timecyc_24h.dat).
 
 [Friendly Triads and Los Aztecas Fix](https://www.mixmods.com.br/2021/07/friendly-triads-and-los-aztecas-fix-aliados/).
-
-[Helifix](https://www.mixmods.com.br/2021/10/helifix-piloto-nos-helicopteros/).
 
 [Hospital Health Pickups](https://www.mixmods.com.br/2021/10/hospital-health-pickups-pickup-de-saude-nos-hospitais/).
 
@@ -94,19 +84,13 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Improved Move](https://www.mixmods.com.br/2021/08/improvedmove/).
 
-[Animal Statues Remastered](https://www.mixmods.com.br/2020/02/animal-statues-remastered-estatuas-de-animais-em-hd/).
-
 [Lamppost Insects](https://www.mixmods.com.br/2015/09/lamppost-insects-insetos-nas-luzes-dos-postes/).
 
-[Missing Lampposts Fix](https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts/).
-
-[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Project Props Object dat" and "Old 2D Waves" folders. delete "insects" folder fro effects folder. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view). replace fsxfunction.ini.
+[NextGen amd Combat FX Plus](https://forum.mixmods.com.br/f22-graficos-interface/t8337-sa-nextgen-remaster-effects-combat-fx) - delete "Old 2D Waves" folder. delete "insects" folder from effects folder. copy/paste/move effects folder to models folder in gta sa root folder (d:\gtasa\models\effects\). Copy/paste/move the rest to "1" folder inside modloader folder. [direct download here](https://drive.google.com/file/d/11fbal_nqnpDf6wusamD3sEqhKhLE5bhy/view). replace fsxfunction.ini.
 
 [Oil Leaking](https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/).
 
 [Open Door Anim](https://www.mixmods.com.br/2021/04/open-door-anim-v1-2-1-animacao-abrindo-porta/).
-
-[Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
 
 [Ped Fear Fix](https://www.mixmods.com.br/2020/10/ped-fear-fix-v2-0-2-peds-se-assustam-com-armas-e-mais/).
 
@@ -123,8 +107,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 [Vehicles Sound Revamped](https://sharemods.com/idg9mf0cst5v/SAVSR_PC_Update_2.rar.html) - put in "2" folder inside modloader. credit: Rab1d.
 
 [Ped Skills](https://www.mixmods.com.br/2022/08/pedskills/).
-
-[Proper Night Windows](https://www.mixmods.com.br/2022/06/proper-night-windows/).
 
 [Rain Extinguish Fire](https://www.mixmods.com.br/2021/10/rain-extinguish-fire-chuva-apaga-o-fogo/).
 
@@ -158,27 +140,15 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [ModelExtras](https://discord.com/invite/AduJVdyqCD) - download latest version of modelextras from grinch_'s discord server and put modelextras mod in gta sa root folder (e.g. - d:\gtasa\modelextras.asi and etc). replace .ini.
 
-[Revamped Vehicles Project](https://drive.google.com/drive/folders/1eLgkZfOOvI8a6Z-742Bm34bo-uzbb0q5) - delete "Alternative Vehicles" folder. put the .eml files from "EML Folder (IVF Sirens)" folder into modelextras' sirens folder (location: d:\gtasa\ModelExtras\sirens\). put the rest of the other folders into "2" folder inside modloader folder. Credit: KiloRyu
-
-[Graphics Tweaker](https://www.mixmods.com.br/2022/09/graphicstweaker/) - Replace .ini.
-
 [Model Variations](https://gtaforums.com/topic/977777-model-variations/) - replace its inis. modded inis include Model Variations Loaded (credit: Flaqko_) and Trailers/Trucks (credit: matslick).
 
 [Real Skybox](https://www.mixmods.com.br/2021/06/sa-real-skybox/).
 
-[GTA SA Ezekiel Skybox addon](https://libertycity.net/files/gta-san-andreas/172817-4k-nebo-i-zvezdy-new-sky-and-stars.html) - replace the content of Real Skybox folder with the Real Skybox mod above.
-
 [The Birds Update](https://www.mixmods.com.br/2017/10/the-birds-update-passaros-realistas/).
-
-[HD Underwater](https://www.mixmods.com.br/2022/06/sa-hd-underwater/) - copy/paste both folders, ignoring (low version) folder.
-
-[Rikintosh's Small Details Mod (improved version)](https://www.mixmods.com.br/2021/01/rikintoshs-small-details-mod-carros-com-texturas-hd/) - put this mod in "2" folder inside modloader folder.
 
 [Urbanize](https://www.mixmods.com.br/2024/11/urbanize/) - pick the high settings preset and copy paste cleo and modloader folders into gta sa root folder. replace ini.
 
 [Wind Project](https://www.mixmods.com.br/2022/10/wind-project/).
-
-[Air Brake Sound](https://www.mixmods.com.br/2022/05/air-brake-sound/).
 
 [Animation Fix + M4k3 Anims](https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/) - install Animation Fix + M4k3 New Car Animations folder only (ignore the rest). and delete ped.ifp.
 
@@ -192,137 +162,27 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Low Life Animation](https://www.mixmods.com.br/2019/07/low-life-animation-v1-2-2-animacao-de-saude-baixa/).
 
-[Dynamic Weapon Draw Sound](https://www.mixmods.com.br/2019/09/dynamic-weapon-draw-sound-v2-5-som-ao-manusear-arma/).
-
-[Death Anims](https://www.gtainside.com/en/sanandreas/mods/192026-death-animations).
-
-[Faster Animation Of Sellers](https://www.gtainside.com/en/sanandreas/mods/196525-faster-animation-of-sellers/).
-
 [Food Eating Fix](https://www.mixmods.com.br/2019/04/food-eating-fix-v1-2-comida-visivel-enquanto-come/).
 
 [Gravity Fix](https://www.mixmods.com.br/2018/11/gravity-fix-correcao-de-gravidade/).
 
-[Helmet Mod](https://www.mixmods.com.br/2020/01/helmet-mod-v1-0-npcs-com-capacete/) - install the optional folder too.
-
 [Improved Jetpack Control](https://www.mixmods.com.br/2021/07/improved-jetpack-control-melhorar-controle-do-jetpack/).
-
-[Improved Night Windows](https://www.mixmods.com.br/2022/09/sa-improved-night-windows-by-hysen-mais-janelas-noturnas/).
-
-[Infernus HD Remastered](https://www.mixmods.com.br/2019/09/infernus-hd-remastered-by-ezekiel/) - install the imvehft version.
-
-[Melee Hit Sound](https://www.mixmods.com.br/2021/03/melee-hit-sound-v1-1-som-de-impacto-de-arma-branca/).
-
-[Proper Radar](https://www.mixmods.com.br/2022/07/proper-radar/).
-
-[MenuUI](https://www.mixmods.com.br/2021/09/menuui-v1-5-menus-modernos/).
-
-[More Locked Cars](https://www.mixmods.com.br/2018/08/more-locked-cars-mais-carros-trancados-e-com-alarme/) - replace its .ini.
-
-[Panic Face](https://www.mixmods.com.br/2019/05/panic-face-expressao-facial-nos-pedestres/).
-
-[Carwash](https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/).
 
 [Peds Buy Food](https://www.mixmods.com.br/2020/07/peds-buy-food-pedestres-compram-comida/).
 
-[Peds Dont Drown](https://www.mixmods.com.br/2020/01/pedsdontdrown-pedestres-sabem-nadar/).
-
 [Planes Inertia](https://www.mixmods.com.br/2020/07/gta-sa-planes-inertia-inercia-ao-pular-do-aviao/).
-
-[Proper HD Models](https://www.mixmods.com.br/2022/10/sa-proper-hd-models/).
 
 [EnhancedGXT](https://gtaforums.com/topic/986600-sa-enhancedgxt/) - read the install instruction.
 
 [Prostitutes Money Drop Fix](https://www.mixmods.com.br/2022/04/prostitutes-money-drop-fix/).
 
-[Rain Audio Fix](https://www.mixmods.com.br/2019/07/rain-audio-fix-novos-sons-para-chuva/).
-
 [Rusty Brown's Ring Donuts Overhaul](https://www.mixmods.com.br/2020/02/rusty-browns-ring-donuts-overhaul-loja-de-donuts/).
 
-[SADE Big Ear Telescope to SA](https://www.mixmods.com.br/2022/09/sa-sade-big-ear-telescope-meshsmooth-hd/).
-
-[SFDP Heli Fix](https://www.mixmods.com.br/2022/06/sa-sfdp-heli-fix/).
-
 [Water Hurt](https://www.mixmods.com.br/2020/03/water-hurt-receber-dano-ao-cair-na-agua/).
-
-[Wind Farm](https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/).
-
-[Siren Extender](https://www.mixmods.com.br/2018/08/siren-extender-v1-1-sirene-em-mais-carros/).
-
-[Multiple Siren Mod](https://www.mixmods.com.br/2018/08/multiple-siren-mod-sons-de-sirene-individuais/) - read the readme for install instruction.
 
 [Spread Fix](https://www.mixmods.com.br/2018/01/spread-fix-corrigir-espalhamento-dos-tiros/).
 
 [CJ Chars Meshsmoothed 2025](https://drive.google.com/drive/u/1/folders/17aAK9IPRYWyotJgCHad8tq7wTEj7NowN).
-
-[HD Carl Home by Zeneric](https://drive.google.com/drive/u/1/folders/1ACLW1hzXZcVw1fVSeW-b8sAp4-2cVbeO).
-
-[HD Railway Sign](https://libertycity.net/files/gta-san-andreas/179539-hd-zheleznodorozhnyjj-znak.html) - delete optional 4k texture folder.
-
-[HD telegraph pole](https://libertycity.net/files/gta-san-andreas/179540-hd-telegrafnyjj-stolb.html) - delete optional 4k texture folder.
-
-[HD Garbage Hippo](https://libertycity.net/files/gta-san-andreas/179428-hd-musorka-begemotik.html).
-
-[HD Trash can from Cluckin' Bell ](https://libertycity.net/files/gta-san-andreas/179429-hd-musorka-iz-cluckin-bell.html).
-
-[HD oil rigs](https://libertycity.net/files/gta-san-andreas/179427-hd-neftjanye-vyshki.html).
-
-[HD Pack of trash cans](https://libertycity.net/files/gta-san-andreas/179431-hd-pak-musornykh-vjoder.html).
-
-[Improved Bus Stop](https://libertycity.net/files/gta-san-andreas/158539-hq-avtobusnaja-ostanovka-improved-bus.html).
-
-[HD Wooden bench](https://libertycity.net/files/gta-san-andreas/179355-hd-derevjannaja-lavochka.html).
-
-[HD Stone Seat](https://libertycity.net/files/gta-san-andreas/179356-hd-kamennaja-lavochka.html).
-
-[HD Burger](https://libertycity.net/files/gta-san-andreas/179357-hd-burger.html).
-
-[HD Basketball Hoop](https://libertycity.net/files/gta-san-andreas/179296-hd-basketbolnoe-kolco.html).
-
-[Big Smoke's Lit House](https://libertycity.net/files/gta-san-andreas/179300-uluchshennoe-osveshhenie-doma-big-smouka.html).
-
-[HD Barrels](https://libertycity.net/files/gta-san-andreas/179297-hd-bochki.html).
-
-[Improved Fuel tanks](https://libertycity.net/files/gta-san-andreas/179295-uluchshennye-cisterny-s-toplivom.html).
-
-[HD Wash Gas Tank](https://libertycity.net/files/gta-san-andreas/179298-hd-zapravochnaja-kolonka.html).
-
-[HD Ten Green Bottles bar sign from Definitive Edition](https://libertycity.net/files/gta-san-andreas/179299-hd-vyveska-bara-ten-green-bottles-iz.html).
-
-[HD Santa Monica Sign](https://libertycity.net/files/gta-san-andreas/197077-hd-vyveska-santa-monika.html).
-
-[Santa Maria Pier Extended](https://www.mixmods.com.br/2022/12/sa-santa-maria-pier-extended/) - delete Carousel folder. and delete "remove original" folder from Ticket Stand HD folder
-
-[HD Food Kiosk](https://libertycity.net/files/gta-san-andreas/194940-hd-kiosk-s-edojj.html).
-
-[HD Aztec House](https://libertycity.net/files/gta-san-andreas/193281-hd-dom-actekov.html).
-
-[Improved Sweet Home](https://libertycity.net/files/gta-san-andreas/188538-uluchshennyjj-dom-svita.html).
-
-[HD Water Tower](https://libertycity.net/files/gta-san-andreas/184129-hd-vodonapornaja-bashnja.html).
-
-[HD Tables and Chairs in Bars](https://libertycity.net/files/gta-san-andreas/183585-hd-stoly-i-stulja-v-barakh.html).
-
-[HD 3D Metal Fence](https://libertycity.net/files/gta-san-andreas/182837-hd-3d-metallicheskijj-zabor.html).
-
-[HD Berth](https://libertycity.net/files/gta-san-andreas/181934-hd-prichal.html).
-
-[HD Phone booth](https://libertycity.net/files/gta-san-andreas/180190-hd-telefonnaja-budka.html).
-
-[HD Umbrella Counter](https://libertycity.net/files/gta-san-andreas/179754-hd-prilavok-s-zontikom.html).
-
-[HD pizza leftovers](https://libertycity.net/files/gta-san-andreas/179753-hd-ostatki-piccy.html).
-
-[HD Road Sign](https://libertycity.net/files/gta-san-andreas/181364-hd-dorozhnyjj-znak.html).
-
-[HD Audio system in B-Dup's house ](https://libertycity.net/files/gta-san-andreas/179645-hd-audiosistema-v-dome-bi-dapa.html).
-
-[HD Parking Booths](https://libertycity.net/files/gta-san-andreas/179644-hd-parkovochnye-budki.html) - delete optional 4k texture folder.
-
-[HD Supermarket Trolley](https://libertycity.net/files/gta-san-andreas/179359-hd-telezhka-iz-supermarketa.html).
-
-[Improved blue house lighting](https://libertycity.net/files/gta-san-andreas/179353-uluchshennoe-osveshhenie-sinikh-domov.html) - delete optional low-res windows textures folder.
-
-[HQ Newspapers Stands](https://libertycity.net/files/gta-san-andreas/158540-hq-stendy-s-gazetami-hq-news-stands.html).
 
 [Zen's Lamps](https://drive.google.com/file/d/1FTHAG6XKeSve-RU3nkWiJZjCsriRYySK/view).
 
