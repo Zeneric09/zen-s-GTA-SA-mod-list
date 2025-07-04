@@ -1,10 +1,10 @@
 Zeneric's GTA SA Mod List.
 
-Mods from this zen mod list running with GTA SA on my pc I get 70-164 (my monitor max hz) fps in game on 4k screen res (+ x8 MSAA). my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
+Mods from this zen mod list running with GTA SA on my pc I get 70-164 (my monitor max hz) fps in game on 4k screen res (+ x8 MSAA) with NVIDIA HDR enabled. my pc specs: 4070 super, ryzen 5800x, 32gb 3200mhz ram, and windows 11.
 
 [GTA SA Play-Thru|Zen's GTA SA Mod List Youtube Video](www.google.ca) - wip.
 
-RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. 20gb of ram is needed to cram this whole zen mod list into the ram. google for "RAMDISK" to install RAMDisk app ([i recommend SoftPerfect's RAMDISK](https://www.softperfect.com/products/ramdisk/) - it has a 30 days trial (or just buy/pirate it)). and create space on RAM for this GTA SA pack to be put in.
+RECOMMENDED: to run GTA SA on RAM instead of SSD/HDD for an almost stutter free experience. 20gb of ram is needed to cram this whole zen mod list into the ram. google for "RAMDISK" to install RAMDisk app ([i recommend OSFMOUNT RAMDISK app]([https://www.softperfect.com/products/ramdisk/](https://www.osforensics.com/tools/mount-disk-images.html)) and create space on RAM for this GTA SA pack to be put in and ran from.
 
 NOTE1: GTA SA version must be 1.0 for the mods from this list to work. Downgrade your GTA SA to 1.0 if it's not 1.0 (google for instruction).
 
@@ -18,11 +18,11 @@ Required to run GTA SA/mods:
 
 Essential external tools/apps for GTA SA optimizations:
 
-[DXVK](https://github.com/doitsujin/dxvk/releases/) - copy/paste d3d9.dll from dxvk 32x folder to gta sa root folder (gtasa/d3d9.dll). DXVK's purpose is to lessen the stuttering problem in GTA SA.
+[DXVK GPLASYNC]([https://github.com/doitsujin/dxvk/releases/](https://gitlab.com/Ph42oN/dxvk-gplasync)) - copy/paste d3d9.dll from DXVK GPLASYNC 32x folder to gta sa root folder (gtasa/d3d9.dll). Same core functionality as DXVK but includes asynchronous pipeline compilation which is especially valuable for SA modders (Massively reduced shader compilation stutter: SA mods (e.g. Project2DFX, RoSA, HD Vehicles, Renderhook, ENB, etc.) often cause new shaders to be compiled during gameplay. Beneficial for open-world games, modded games, or emulators where new shaders are encountered frequently.
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
-[Special K](https://www.special-k.info/). Needs DXVK for this Special K app to work with GTA SA.
+[Special K](https://www.special-k.info/). Needs DXVK GPLASYNC for this Special K app to work with GTA SA. Achieve smoother, tear-free visuals with better latency—perfect with GTA SA graphics packs. Responsive windowed/window-borderless gameplay (includes borderless windowed mode option, not needing the GTA SA windowed mode mod).
 
  Zeneric's GTA SA Mod list Mods:
 
@@ -52,13 +52,7 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [Widescreen Fix](https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/) - replace ini.
 
-[Walter's Brown Streak](https://www.mixmods.com.br/2019/05/walters-brown-streak-trem-remasterizado-em-hd/).
-
-[Walter's Freight](https://www.mixmods.com.br/2020/05/walters-freight-trem-remasterizado-em-hd/).
-
-[New Algorithm for Trains](https://www.mixmods.com.br/2015/07/new-algorithm-for-trains-novo-algoritmo-para-trens/). replace algorithm5.cs inside cleo foler with the one from optional folder. copy/paste the folder "New Algorithm for Trains" to "1" folder inside your gta sa modloader folder. ignore the 2nd optional folder (crashes reported).
-
-[Anim Train](https://www.mixmods.com.br/2015/10/anim-train-rodas-dos-trens-girando-v1-1/).
+[Zeneric's Vehicle Pack](WIP). WIP.
 
 <a href="https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/">Aim Sensibility</a> - replace ini.
 
@@ -184,6 +178,6 @@ Create a folder in the modloader folder and name it as "1" (directory structure 
 
 [CJ Chars Meshsmoothed 2025](https://drive.google.com/drive/u/1/folders/17aAK9IPRYWyotJgCHad8tq7wTEj7NowN).
 
-[Zen's Lamps](https://drive.google.com/file/d/1FTHAG6XKeSve-RU3nkWiJZjCsriRYySK/view).
+[Proper High Poly Remaster Pack](WIP). WIP.
 
 [Zen's Weapons/pickups/items remake](https://drive.google.com/drive/u/1/folders/1r8kNwIYzrMgFL-mkk5wckJIB_n4rziKb).
