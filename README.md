@@ -18,7 +18,7 @@ Required to run GTA SA/mods:
 
 Essential external tools/apps for GTA SA optimizations:
 
-[DXVK GPLASYNC]([https://github.com/doitsujin/dxvk/releases/](https://gitlab.com/Ph42oN/dxvk-gplasync)) - copy/paste d3d9.dll from DXVK GPLASYNC 32x folder to gta sa root folder (gtasa/d3d9.dll). Same core functionality as DXVK but includes asynchronous pipeline compilation which is especially valuable for SA modders (Massively reduced shader compilation stutter: SA mods (e.g. Project2DFX, RoSA, HD Vehicles, Renderhook, ENB, etc.) often cause new shaders to be compiled during gameplay. Beneficial for open-world games, modded games, or emulators where new shaders are encountered frequently.
+[DXVK GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync) - copy/paste d3d9.dll from DXVK GPLASYNC 32x folder to gta sa root folder (gtasa/d3d9.dll). Same core functionality as DXVK but includes asynchronous pipeline compilation which is especially valuable for SA modders (Massively reduced shader compilation stutter: SA mods (e.g. Project2DFX, RoSA, HD Vehicles, Renderhook, ENB, etc.) often cause new shaders to be compiled during gameplay. Beneficial for open-world games, modded games, or emulators where new shaders are encountered frequently.
 
 [Large Address Aware Patch](https://www.techpowerup.com/forums/threads/large-address-aware.112556/) - patch gta_sa.exe with this.
 
